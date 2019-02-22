@@ -2,8 +2,6 @@
 
 # صحيفة الديكريد لشهر يناير2019 
 
-![Decred Journal - January 2019](https://github.com/Insaf01/DedredJournalAR/blob/master/journal-201901-384.jpg)
-
 شهد الديكريد بداية سنة 2019 إصدارات كبيرة للبرمجيات والتطورات الهامة في أجزاء أخرى من المشروع. 
 
 تم [إصدار](https://github.com/decred/decred-binaries/releases/tag/v1.4.0) نسخة جديدة من برنامج العقدة والمحفظة (نسخة 1.4.0) والتي ستطلق التصويت على قواعد الإجماع (من بين أمور أخرى)، لذا ننصح بتحديث نسختكم الحالية. 
@@ -19,7 +17,9 @@
 ## تحديث النسخة 1.4.0 والتصويت على قواعد الإجماع
 
 تم إصدار النسخة 1.4.0 لبرنامج العقدة والمحفظة. ملاحظات الإصدار والتنزيلات الكاملة أصبحت متوفرة على [GitHub](https://github.com/decred/decred-binaries/releases/tag/v1.4.0). قم بالتأكد دائمًا من [التحقق من التنزيلات](https://docs.decred.org/advanced/verifying-binaries/).
+
 يوفر هذا الإصدار تحسينات مهمة، بالإضافة إلى تغيير مقترح قواعد الإجماع الذي يعمل على إصلاح الخلل بدعم شبكة البرق. وينصح مشغلي العقدة بتحديث نسخة البرنامج لمساعدة الشبكة في الوصول إلى الحد الأدنى للتحديث. وبمجرد ترقيته ، ينبغي للناخبين أن يضعوا [تفضيلات التصويت](https://docs.decred.org/governance/how-to-vote/). يمكن تتبع تقدم التحديث على [voting.decred.org](https://voting.decred.org/).
+
 للحصول على التفاصيل التقنية لتغير قواعد الإجماع، انظر [DCP004](https://github.com/decred/dcps/blob/master/dcp-0004/dcp-0004.mediawiki)و [العمود](https://matheusd.com/post/dcp0004-and-hardforks/) المنشور  بواسطة @matheusd.
 باستثناء جدول أعمال التصويت، لا تضم النسخة النهائية من الإصدار 1.4.1 على أي تغييرات مهمة أخرى منذ الإصدار 2 من المرشح الذي تم تغطيته في [دجنبر](https://xaur.github.io/decred-news/journal/201812.html).
 
@@ -40,11 +40,9 @@
 
 ### مناقشات:
 
-•	تم تحديد [ميزة](https://github.com/decred/politeia/issues/662) المشرف المفقودة لفرض الرقابة على الاقتراح العام: يجب أن تكون هناك طريقة لإزالة اقتراح عام تم تعديله بحيث يشمل محتوى مسيء. وكبديل لذلك، سيتعين على المشرفين مراجعة جميع التعديلات قبل عرضها في موقع المقترحات.
-
-•  [الاختبار الأتوماتيكي من البداية إلى النهاية](https://github.com/decred/politeiagui/issues/976) و [قائمة الأسئلة والأجوبة](https://github.com/decred/politeiagui/issues/977) لإجراء تغييرات رئيسية.
-
-•  [إعادة تحليل](https://github.com/decred/politeiagui/issues/990) شفرة الواجهة الأمامية لمعالجة مشكلات التعقيد والأداء وإنتاجية المطورين. [الحل](https://github.com/decred/politeiagui/issues/990#issuecomment-454535696) المقترح الأول هو استخدام GraphQL.
+* تم تحديد [ميزة](https://github.com/decred/politeia/issues/662) المشرف المفقودة لفرض الرقابة على الاقتراح العام: يجب أن تكون هناك طريقة لإزالة اقتراح عام تم تعديله بحيث يشمل محتوى مسيء. وكبديل لذلك، سيتعين على المشرفين مراجعة جميع التعديلات قبل عرضها في موقع المقترحات.
+* [الاختبار الأتوماتيكي من البداية إلى النهاية](https://github.com/decred/politeiagui/issues/976) و [قائمة الأسئلة والأجوبة](https://github.com/decred/politeiagui/issues/977) لإجراء تغييرات رئيسية.
+* [إعادة تحليل](https://github.com/decred/politeiagui/issues/990) شفرة الواجهة الأمامية لمعالجة مشكلات التعقيد والأداء وإنتاجية المطورين. [الحل](https://github.com/decred/politeiagui/issues/990#issuecomment-454535696) المقترح الأول هو استخدام GraphQL.
 
 [dcrandroid](https://github.com/decred/dcrandroid): تم إصدار النسخة النهائية 1.0! احصل عليها على متجر Google Play  لمحافظ [الشبكة الرئيسية](https://play.google.com/store/apps/details?id=com.decred.dcrandroid.mainnet) أو [الشبكة الإختبارية](https://play.google.com/store/apps/details?id=com.decred.dcrandroid.testnet). يمكنك الحصول على العملات الإختبارية عن طريق [الصنبور](https://faucet.decred.org/). جميع  تعليقاتكم مرحب بها على [Reddit](https://www.reddit.com/r/decred/comments/am7j40/decred_wallet_for_android_v10_released/)  وتقارير العلة [على GitHub](https://github.com/decred/dcrandroid/issues).
 منذ إصدار المرشح 2، أضافت النسخة النهائية عرض تقدم المزامنة، عدم وجود منبه للإنترنت اللاسلكي، شاشة بداية جديدة  مع إصلاح طفيف للعلل - كامل سجلّ التغييرات [هنا](https://github.com/decred/dcrandroid/compare/v1.0.0-rc2...v1.0.0-rc3). تهانينا لفريق dcrandroid!
@@ -55,7 +53,7 @@
 
 تصميم الصفحة الرئيسية الجديد الذي يتضمن سعر الصرف، عرض جدول عناوين جديد، مخططات محسنة، وتحسينات السرعة أصبح [متاحا](https://twitter.com/decredexplorer/status/1093182831487053825) في النسخة v4 beta على [beta.dcrdata.org](https://beta.dcrdata.org/). سيتم تجميع ملاحظات الإصدار التفصيلية مع مرشح الإصدار.
 
-جانب التطوير:@ buck54321 [يدمر](https://github.com/decred/dcrdata/pull/915) رمز jQuery الإلزامي. يقوم الفريق بإعداد اختبار الإجهاد لواجهة برمجة تطبيقات تبصرية (يسمونه اختباراً للتعذيب ، أوش). 
+جانب التطوير:@buck54321 [يدمر](https://github.com/decred/dcrdata/pull/915) رمز jQuery الإلزامي. يقوم الفريق بإعداد اختبار الإجهاد لواجهة برمجة تطبيقات تبصرية _(يسمونه اختباراً للتعذيب ، أوش)_. 
 
 [تقسيم التذاكر](https://github.com/matheusd/dcr-split-ticket-matcher): تحسينات في الشفرة الداخلية ، العمل التمهيدي لإدماج Decrediton. تم إعداد [صفحة مراقبة](https://mainnet-split-tickets.matheusd.com/) تعرض جلسات تقسيم نشطة من جميع مقدمي خدمة التصويت VSPs التي تدعمها.
 
@@ -63,21 +61,16 @@
 
 استنتجت المناقشة الأمنية العميقة في #documentation أنه من الممكن تجميع [الإرشادات العامة لأمن الكمبيوتر](https://github.com/xaur/decred-issues/issues/101) والتي ستكون من شأنها أن تكون مفيدة في الفضاء بأكمله.
 
-[decred.org](https://github.com/decred/dcrweb): تم [ضم](https://github.com/decred/dcrweb/pull/491) جهد ضخم لترحيل الموقع إلى Hugo بواسطة @peter_zen. هوغوهو مولد موقع ثابت كتب في go والذي يجعل تحديث محتوى الموقع أسهل بكثير. تم تفعيل عدة عمليات [لتحسين](https://github.com/decred/dcrweb/pull/513) سرعة الموقع.  يتم [تحديث](https://github.com/decred/hardforkdemo/commits/master) لوحة الاقتراع في [Vote.decred.org](https://voting.decred.org/) تمهيدا للتصويت على الإجماع القادم -  مبروك ل@jholdstock للتعمق في Go!
+[decred.org](https://github.com/decred/dcrweb): تم [ضم](https://github.com/decred/dcrweb/pull/491) جهد ضخم لترحيل الموقع إلى Hugo بواسطة @peter\_zen. هوغوهو مولد موقع ثابت كتب في go والذي يجعل تحديث محتوى الموقع أسهل بكثير. تم تفعيل عدة عمليات [لتحسين](https://github.com/decred/dcrweb/pull/513) سرعة الموقع.  يتم [تحديث](https://github.com/decred/hardforkdemo/commits/master) لوحة الاقتراع في [Vote.decred.org](https://voting.decred.org/) تمهيدا للتصويت على الإجماع القادم -  مبروك ل@jholdstock للتعمق في Go!
 
 ### مسائل أخرى:
 
-•	تم بناء الموقع الجديد [لمكافأة إيجاد العلة](https://bounty.decred.org/) أيضا بواسطة  Hugo. [مستودع](https://github.com/decred/dcrbounty) الرموز مفتوح لتقارير الأخطاء والمساهمات.
-
-•	المزيد من تغييرات المصطلحات في  dcrwallet ، dcrdocs و dcrweb.
-
-•	تتحول المشاريع تدريجيا إلى golangci-lint linter  أكثر سرعة.
-
-•	تم [تمكين](https://github.com/decred/dcrweb/pull/537) المزيد من ترويسات الأمان على decred.org.
-
-•	قد تكون [واجهة SQL](https://www.reddit.com/r/decred/comments/agpkjv/sql_interface_to_live_onchain_decred_data/) الخاصة ببيانات السلسلة المفردة مثيرة للاهتمام للباحثين.
-
-•	يتيح [GitHub](https://github.blog/2019-01-07-new-year-new-github/) الآن للمستودعات الخاصة مع ما يصل إلى 3 متعاونين للحسابات المجانية.
+* تم بناء الموقع الجديد [لمكافأة إيجاد العلة](https://bounty.decred.org/) أيضا بواسطة  Hugo. [مستودع](https://github.com/decred/dcrbounty) الرموز مفتوح لتقارير الأخطاء والمساهمات.
+* المزيد من تغييرات المصطلحات في  dcrwallet ، dcrdocs و dcrweb.
+* تتحول المشاريع تدريجيا إلى golangci-lint linter  أكثر سرعة.
+* تم [تمكين](https://github.com/decred/dcrweb/pull/537) المزيد من ترويسات الأمان على decred.org.
+* قد تكون [واجهة SQL](https://www.reddit.com/r/decred/comments/agpkjv/sql_interface_to_live_onchain_decred_data/) الخاصة ببيانات السلسلة المفردة مثيرة للاهتمام للباحثين.
+* يتيح [GitHub](https://github.blog/2019-01-07-new-year-new-github/) الآن للمستودعات الخاصة مع ما يصل إلى 3 متعاونين للحسابات المجانية.
 
 إحصائيات نشاط التطوير لشهر يناير: 242 من المشاريع النشطة، 243  إلتزام، 60 ألف إضافة، 47 ألف عملية حذف  خلال  8 سجلات.وجاءت المساهمات من 2 إلى 8 مطورين لكل مستودع.
 
@@ -90,17 +83,12 @@
 
 تهانينا لستة من المساهمين الجدد الذين تم [إدراجهم](https://github.com/decred/dcrdocs/commits?author=dezryth) في decred.org:
 
-• David Habib@eSizeDave، مدبر المجتمع- أستراليا
-
-• Elian Huesca @elian، مدبر المجتمع- المكسيك
-
-• Marcelo Martins @mm، مدبر المجتمع-البرتغال
-
-• Mariusz Szyma @donmario، مدبر المجتمع - بولاندا
-	
-• Morphy Tsai @morphymore، مدبر المجتمع - التايوان
-
-• Tomasz Porwit @kozel ، التعليم والتواصل
+* David Habibi @eSizeDave، مدبر المجتمع- أستراليا
+* Elian Huesca @elian، مدبر المجتمع- المكسيك
+* Marcelo Martins @mm، مدبر المجتمع-البرتغال
+* Mariusz Szyma @donmario، مدبر المجتمع - بولاندا
+* Morphy Tsai @morphymore، مدبر المجتمع - التايوان
+* Tomasz Porwit @kozel ، التعليم والتواصل
 
 تمت [إزالة](https://github.com/decred/dcrweb/issues/528) 4 مطورين غير نشطين من decred.org:
 Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet), Macaulay Davies (@mcedward), Rohit Nagori
@@ -123,43 +111,27 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 ### مناقشات:
 
-•	حفز اقتراح Baeond على [مناقشة](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15468733339790vCEoH:decred.org) قوة موجهة للهجوم حيث سيعرض على أصحاب الحصص أخذ بعض العملات الرمزية مقابل موافقتهم على الاقتراح. 
-
-•	[المشاركة](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15481365491827928DiBLm:matrix.org) والرضا مع بوليتيا لحد الآن.
-
-•	كيف يمكن [لتحسينات UX](https://github.com/decred/politeia/issues/678) مساعدة الناخبين على التعامل مع المقترحات السيئة بشكل استباقي والبقاء يقظين.
+* حفز اقتراح Baeond على [مناقشة](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15468733339790vCEoH:decred.org) قوة موجهة للهجوم حيث سيعرض على أصحاب الحصص أخذ بعض العملات الرمزية مقابل موافقتهم على الاقتراح. 
+* [المشاركة](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15481365491827928DiBLm:matrix.org) والرضا مع بوليتيا لحد الآن.
+* كيف يمكن [لتحسينات UX](https://github.com/decred/politeia/issues/678) مساعدة الناخبين على التعامل مع المقترحات السيئة بشكل استباقي والبقاء يقظين.
 
 ## شبكة الاتصال:
 
-### معدل الهاش: 
-
-افتتحت معدلات الهاش شهر يناير في ~187 Ph/s وأغلقت عند ~225 Ph/s وبلغ قاعها 144 Ph/s وبلغت ذروتها 312 Ph/s عند طوال الشهر. اعتبارا من 8 فبراير، توزيع مجمع معدل الهاش حسب [dcrstats.com](https://dcrstats.com/pow) :
--	F2pool 26%
--	BTC.com 19%
--	UUPool 8%
--	Luxor 4%
--	CoinMine 1%
--	أخرى13%   
+معدل الهاش: افتتحت معدلات الهاش شهر يناير في ~187 Ph/s وأغلقت عند ~225 Ph/s وبلغ قاعها 144 Ph/s وبلغت ذروتها 312 Ph/s على مدار الشهر. اعتبارا من 8 فبراير، بلغ توزيع مجمع معدل الهاش حسب [dcrstats.com](https://dcrstats.com/pow) :
+- F2pool 26%
+- BTC.com 19%
+- UUPool 8%
+- Luxor 4%
+- CoinMine 1%
+- أخرى13%   
 
 أرقام توزيع المجمع تقريبية ولا يمكن تحديدها بدقة.
 
-### تحصيص:
-
-كان متوسط سعر التذكرة لمدة 30 يومًا 109.4 (DCR (+6.4 في 4 فبراير حسب dcrstats.com. تفاوت السعر بين 101.5-111.6 DCR. المبلغ المقفل كان 4.20-4.38 مليون DCR،  وهو ما يعادل 46.3-47.5 ٪ من العرض المتاح.
+تحصيص: كان متوسط سعر التذكرة لمدة 30 يومًا 109.4 (DCR (+6.4 في 4 فبراير حسب dcrstats.com. تفاوت السعر بين 101.5-111.6 DCR. المبلغ المقفل كان 4.20-4.38 مليون DCR،  وهو ما يعادل 46.3-47.5 ٪ من العرض المتاح.
 
 كان هناك 90 تذكرة مجزأة في يناير. وتظهر [البيانات](https://gist.github.com/oregonisaac/8eb4d50af9fa888c920666fb73ba44b2) منذ ماي 2018 نموًا ثابتًا.
 
-### العقد:
-
-اعتبارا من 4 فبراير كان هناك 197 عقدة استماع عام و 369 عقدة عادية حسب [dcred.eu](https://dcred.eu/nodeStats). 
-
-### توزيع الإصدار:
-
--	v1.5. dev builds: 4.3% (+2.8%)
--	V1.4.0 dev and rc buوs: 13% (+6%)
--	v1.3.0 : 55%, v1.2.0 : 14% (-6%)
--	v1.1.2 : 8% (-2%)
--	v1.1.0 : 3% (-1%)
+العقد:اعتبارا من 4 فبراير كان هناك 197 عقدة استماع عام و 369 عقدة عادية حسب [dcred.eu](https://dcred.eu/nodeStats). توزيع الإصدار: بناء التطوير النسخة 1.5.0: 4.3% (+2.8%)، بناء التطوير و إصدار الصيغة المرشحة النسخة 1.4.0: 13% (+6%)، النسخة 1.3.0: 55%، النسخة 1.2.0: 14% (-6%)، النسخة 1.1.2: 8% (-2%)، 1.1.0: 3% (-1%).
 
 ## تعدين
 
@@ -173,9 +145,8 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 ### إدماج منصات التبادل:
 
-•	[أعلنت](https://twitter.com/bitturkcom/status/1082201314912862209) منصة التبادل التركية إضافة زوج عملة الفياتDCR/TRY،المناقشة وبعض المعلومات الأساسية [هنا](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15468134682383442wwDSE:matrix.org).
-
-•	[أعلنت](https://twitter.com/bitjabr/status/1090066185302036480) منصة التبادل BitJa إضافة زوج عملة الفيات DCR/BRL.
+* [أعلنت](https://twitter.com/bitturkcom/status/1082201314912862209) منصة التبادل التركية إضافة زوج عملة الفياتDCR/TRY،المناقشة وبعض المعلومات الأساسية [هنا](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15468134682383442wwDSE:matrix.org).
+* [أعلنت](https://twitter.com/bitjabr/status/1090066185302036480) منصة التبادل BitJa إضافة زوج عملة الفيات DCR/BRL.
 
 [أعلنت](https://twitter.com/ellipalwallet/status/1089850526202613760) محفظة Ellipal دعم الديكريد في أحدث إصدار للبرامج الثابتة.
 
@@ -185,7 +156,7 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 > منتجنا الأفضل مبيعًا على الموقع كان بلا شك [سترة الديكريد لجاك](https://www.cryptoemporium.eu/product/decred-jacket/) الشهيرة! لقد تشرفت بخدمة مجتمع الديكريد لفترة طويلة وساعدت في تسويق مشروع أؤمن به حقًا. 
 
-قم دائمًا بالبحث قبل استخدام المحافظ أو الخدمات، خاصةً تلك التي تحتفظ بأموالك.
+قم دائمًا بالبحث _قبل_استخدام المحافظ أو الخدمات، خاصةً تلك التي تحتفظ بأموالك.
 
 ## اعتماد
 
@@ -198,24 +169,16 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 ### تحديث شهر يناير من Ditto:
 
-•	بحثت مرات عدة في وثيقة الرسائل الأساسية مع مساهمة كبيرة من المجتمع، وتلقيت تعليقات إيجابية على [النسخة النهائية](https://pastebin.com/E5L6u2RV). (مناقشات: الإصدار [الثاني](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154706728112462ubmNo:decred.org)، الإصدار [النهائي](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154880432321730DYSYl:decred.org)).
-
-•	عملت مع المجتمع لتحديد مصدر التعليقات على هجمات 51٪ لاستخدامها في المستقبل مع الصحفيين عند حدوث هجوم والذي من المحثم أن يحدث، الهدف هو الحصول على رسالة للديكريد أمام الصحفيين حتى عندما لا يكون هناك أي أخبار قوية لمشاركتها. 
-
-•	وقامت وسائل الإعلام بتدريب ثلاثة أعضاء للديكريد.
-
-•	التغطية الإعلامية المضمونة: [عرض مقال](https://www.forbes.com/sites/leslieankney/2019/01/11/who-should-hold-power-decred-governance-and-what-it-means-for-investors/#35955166e2ca) في الفوربس([تقرير](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$1547232200845NiZnO:decred.org))، [مقابلة فيديو](https://www.youtube.com/watch?v=CUxDxJ4YAUA) مع Joshua على Bitsonline، بيان بواسطة @richardred حول التأخير في التفرع الصلب للإيثريوم في [Breaker Mag](https://breakermag.com/what-we-know-about-the-vulnerability-behind-ethereums-rollback-of-constantinople/) و [Crypto Briefing](https://cryptobriefing.com/scaling-delay-ethereum-constantinople/).
-
-•	صيغ إعلان برنامج مكافأة إيجاد العلل و تم [وضعه](https://hackernoon.com/decred-launches-debug-decred-bug-bounty-program-7e4d2af27ec9) في Hacker Noon -وبالتالي سيسهل ذلك الوصول إلى مجموعة أوسع بكثير من المطورين، مقارنة بقنوات الديكريد الخاصة. 
-
-•	ويسر إجراء مقابلتين انتظارا للتغطية الإعلامية.
-
-•	وتوجّه إلى مؤتمر بيتكوين في أمريكا الشمالية، حيث سهّل ديتو إجراء المقابلات بين الديكريد والمراسلين (Cheddar TV، Altcoin Buzz، إلخ) وقضى وقتًا ممتعًا مع الفريق.
-وقد عمل بشكل وثيق مع داستن حول وضع خطة للمناسبة والتي تشمل كلتا الفعاليات التي ترغب الديكريد في التحدث فيهما والفعاليات التي تود المشاركة فيها بكشك. 
-
-•	وقدم طلبًا لجيك للتحدث في توافق الآراء 2019.
-
-•	عمل بشكل وثيق مع داستن في خطة للتسويق والاتصالات في النصف الأول من عام 2019، تشمل الرسائل، التدريب الإعلامي، العلاقات الإعلامية، الفعاليات والتحدث، والاستراتيجية. هذه الخطة لا تزال معلقة.
+* قمت بالبحث مرات عدة في وثيقة الرسائل الأساسية مع مساهمة كبيرة من المجتمع، وتلقيت تعليقات إيجابية على [النسخة النهائية](https://pastebin.com/E5L6u2RV). (مناقشات: الإصدار [الثاني](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154706728112462ubmNo:decred.org)، الإصدار [النهائي](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154880432321730DYSYl:decred.org)).
+* عملت مع المجتمع لتحديد مصدر التعليقات على هجمات 51٪ لاستخدامها في المستقبل مع الصحفيين عند حدوث هجوم والذي من المحثم أن يحدث، الهدف هو الحصول على رسالة للديكريد أمام الصحفيين حتى عندما لا يكون هناك أي أخبار قوية لمشاركتها. 
+* وقامت وسائل الإعلام بتدريب ثلاثة أعضاء للديكريد.
+* التغطية الإعلامية المضمونة: [عرض مقال](https://www.forbes.com/sites/leslieankney/2019/01/11/who-should-hold-power-decred-governance-and-what-it-means-for-investors/#35955166e2ca) في الفوربس([تقرير](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$1547232200845NiZnO:decred.org))، [مقابلة فيديو](https://www.youtube.com/watch?v=CUxDxJ4YAUA) مع Joshua على Bitsonline، بيان بواسطة @richardred حول التأخير في التفرع الصلب للإيثريوم في [Breaker Mag](https://breakermag.com/what-we-know-about-the-vulnerability-behind-ethereums-rollback-of-constantinople/) و [Crypto Briefing](https://cryptobriefing.com/scaling-delay-ethereum-constantinople/).
+* صيغ إعلان برنامج مكافأة إيجاد العلل و تم [وضعه](https://hackernoon.com/decred-launches-debug-decred-bug-bounty-program-7e4d2af27ec9) في Hacker Noon -وبالتالي سيسهل ذلك الوصول إلى مجموعة أوسع بكثير من المطورين، مقارنة بقنوات الديكريد الخاصة. 
+* ويسر إجراء مقابلتين انتظارا للتغطية الإعلامية.
+* وتوجّه إلى مؤتمر بيتكوين في أمريكا الشمالية، حيث سهّل ديتو إجراء المقابلات بين الديكريد والمراسلين (Cheddar TV، Altcoin Buzz، إلخ) وقضى وقتًا ممتعًا مع الفريق.
+* وقد عمل بشكل وثيق مع داستن حول وضع خطة للمناسبة والتي تشمل كلتا الفعاليات التي ترغب الديكريد في التحدث فيهما والفعاليات التي تود المشاركة فيها بكشك. 
+* وقدم طلبًا لجيك للتحدث في توافق الآراء 2019.
+* عمل بشكل وثيق مع داستن في خطة للتسويق والاتصالات في النصف الأول من عام 2019، تشمل الرسائل، التدريب الإعلامي، العلاقات الإعلامية، الفعاليات والتحدث، والاستراتيجية. هذه الخطة لا تزال معلقة.
 
 وينصح الأفراد بتبادل التغطية الإعلامية لأن توسيع نطاق التغطية لا يقل أهمية عن وضع وسائط الإعلام نفسها.
 
@@ -225,146 +188,102 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 ### مسائل أخرى:
 
-•	و[يشاع ](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15478503329998HCAzR:decred.org)أن Ditto يمكنه أن يرتب لحية مجنونة تخول للمرء أن يرتدي سترة فضية اللون للديكريد.
-
-•	[وضع](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154792069410439nSRtR:decred.org) @anshawblack بضائع الديكريد في جميع متاجر تسجيلات ميامي.
-
-•	تم [تجديد](https://www.reddit.com/r/decred/comments/ae07as/custom_decred_merch_with_19_discount_in_the/) متجر Decredible مع العناصر الإضافية وشعارات الديكريد الجديدة. يمكن تخصيص جميع المنتجات وتعديلها.
+* و[يشاع ](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15478503329998HCAzR:decred.org)أن Ditto يمكنه أن يرتب لحية مجنونة تخول للمرء أن يرتدي سترة فضية اللون للديكريد.
+* [وضع](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154792069410439nSRtR:decred.org) @anshawblack بضائع الديكريد في جميع متاجر تسجيلات ميامي.
+* تم [تجديد](https://www.reddit.com/r/decred/comments/ae07as/custom_decred_merch_with_19_discount_in_the/) متجر Decredible مع العناصر الإضافية وشعارات الديكريد الجديدة.
+يمكن تخصيص جميع المنتجات وتعديلها.
 
 إشعار عاجل: [تتوفر](https://www.reddit.com/r/decred/comments/ahalex/new_batch_of_stakey_plushies_available/) مجموعة جديدة من من اللعب المحشوة ل Stakey!
 
 ## الفعاليات 
 
-### الحضور:
+الحضور:
 
-•	[مؤتمر البتكوين في أمريكا الشمالية](https://btcmiami.com/) في ميامي، الولايات المتحدة الأمريكية. الحضور كان منخفضا بشكل مفاجئ: فقد كان من المتوقع أن يصل عدد الأشخاص إلى 6 ألاف ولكن لم يسجل سوى حضور 1،8 ألف بعد الحدث. الحضور وعرض @jy-p عن [تطبيقات ختم الوقت للبلوكشين](https://btcmiami.com/session/applications-of-blockchain-time-stamping/) وحتى عدد الحضور كان جيدا مقارنة بالعدد الإجمالي. وتم تدريب 3 أعضاء على وسائط الإعلام ووجدوا أنه مفيد، ومن المقرر تدريب سبع أعضاء آخرين.
+* [مؤتمر البتكوين في أمريكا الشمالية](https://btcmiami.com/) في ميامي، الولايات المتحدة الأمريكية. الحضور كان منخفضا بشكل مفاجئ: فقد كان من المتوقع أن يصل عدد الأشخاص إلى 6 ألاف ولكن لم يسجل سوى حضور 1،8 ألف بعد الحدث. الحضور وعرض @jy-p عن [تطبيقات ختم الوقت للبلوكشين](https://btcmiami.com/session/applications-of-blockchain-time-stamping/) وحتى عدد الحضور كان جيدا مقارنة بالعدد الإجمالي. وتم تدريب 3 أعضاء على وسائط الإعلام ووجدوا أنه مفيد، ومن المقرر تدريب سبع أعضاء آخرين.
  مستودع للقيمة: "آمن. قابل للتكيف. ذاتي التمويل " والرسائل المصاحبة، وسائل فعالة جدا للحديث عن الديكريد. وجد أنها الأكثر وضوحا وتأثيرا. التقرير الكامل مع وصلات إلى الصور والفيديوهات من [هنا](https://github.com/heyvj/decred-events/blob/master/reports/20190116-tnabc-miami.md). 
+* [جولة OKEx العالمية](https://www.eventbrite.hk/e/okex-global-meetup-tour-2019-taiwan-tickets-54689867867) في تايبيه، تايوان. @morphymore روى قصة الديكريد وكيف تعمل. "فمقارنة بسنة 2018 ، بدأ الناس يميزون الديكريد بشكل أفضل. بعض الناس أخبروني أنهم تعرفوا عن الديكريد من الترجمة الصينية التي قمت بها العام الماضي من أطروحة الاستثمار الخاصة بPlaceholder. كان ذلك مشجعاً للغاية ويظهر أن معرفة الناس عن الديكريد في تايوان في تزايد مستمر.([التقرير](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15478245399446fDEQa:decred.org) و[الصور](https://photos.google.com/share/AF1QipP07yyYIYSVQKIZTOvhui5arrVcINi8e84M3ENFp8pBm6g-gf8AXyTZ1e4rcwLwHg?key=MlRuX0RtR21TSV9qWUdDRE1yUTcwNHRWaTJBNENn)) 
+* [10 lat Bitcoina](https://10latbitcoina.com.pl/) في وارسو ، بولندا. تحدث @karamble عن  ديمومة العملات الرقمية مركزا على الديكريد. و أنشأ الفريق المكون من أربعة أشخاص علاقات مع عدد من منابر العملات الرقمية واشترك في عدد قليل من الأعمال التجارية. كما ذكر  BitHub.pl:"شارك فتيان الديكريد في الإجابة على الأسئلة من المهتمين مع إبداء الكثير من الصبر، حيث أن الأسئلة تدفقت في الأساس طوال الوقت!". ([التقرير](https://github.com/heyvj/decred-events/blob/master/reports/20190126-10LatBitcoina-Warsaw.md))
 
-•	[جولة OKEx العالمية](https://www.eventbrite.hk/e/okex-global-meetup-tour-2019-taiwan-tickets-54689867867) في تايبيه، تايوان. @morphymore روى قصة الديكريد وكيف تعمل. "فمقارنة بسنة 2018 ، بدأ الناس يميزون الديكريد بشكل أفضل. بعض الناس أخبروني أنهم تعرفوا عن الديكريد من الترجمة الصينية التي قمت بها العام الماضي من أطروحة الاستثمار الخاصة بPlaceholder. كان ذلك مشجعاً للغاية ويظهر أن معرفة الناس عن الديكريد في تايوان في تزايد مستمر.([التقرير](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15478245399446fDEQa:decred.org) و[الصور](https://photos.google.com/share/AF1QipP07yyYIYSVQKIZTOvhui5arrVcINi8e84M3ENFp8pBm6g-gf8AXyTZ1e4rcwLwHg?key=MlRuX0RtR21TSV9qWUdDRE1yUTcwNHRWaTJBNENn)) 
+الأحداث القادمة:
 
-•	[10 lat Bitcoina](https://10latbitcoina.com.pl/) في وارسو ، بولندا. تحدث @karamble عن  ديمومة العملات الرقمية مركزا على الديكريد. و أنشأ الفريق المكون من أربعة أشخاص علاقات مع عدد من منابر العملات الرقمية واشترك في عدد قليل من الأعمال التجارية. كما ذكر  BitHub.pl:"شارك فتيان الديكريد في الإجابة على الأسئلة من المهتمين مع إبداء الكثير من الصبر، حيث أن الأسئلة تدفقت في الأساس طوال الوقت!". ([التقرير](https://github.com/heyvj/decred-events/blob/master/reports/20190126-10LatBitcoina-Warsaw.md))
-
-### الأحداث القادمة:
-
-•	[حفلة الحرم الجامعي](http://brasil.campus-party.org/cpbr12/patrocinadores/) في ساو باولو، البرازيل في 12-17 فبراير.
-
-•	[كيف تؤمن عملاتك الرقمية](https://www.meetup.com/fr-FR/Decred-Australia/events/258211699/)، ملبورن، أستراليا في 18 فبراير. 
-
-•	[الديكريد في 30 دقيقة](https://www.eventbrite.com/e/decred-en-30-minutos-tickets-55764142050)، مكسيكو سيتي، المكسيك في 27 فبراير. لمزيد من المعلومات راسل @elian.
-
-•	[خاليسكو Talent Land](https://www.talent-land.mx/#entradas) في غوادالاخارا، المكسيك في 22-26 أبريل.اتصل بـ elian إذا كنت مهتمًا بالمساعدة / الحضور.
+* [حفلة الحرم الجامعي](http://brasil.campus-party.org/cpbr12/patrocinadores/) في ساو باولو، البرازيل في 12-17 فبراير.
+* [كيف تؤمن عملاتك الرقمية](https://www.meetup.com/fr-FR/Decred-Australia/events/258211699/)، ملبورن، أستراليا في 18 فبراير. 
+* [الديكريد في 30 دقيقة](https://www.eventbrite.com/e/decred-en-30-minutos-tickets-55764142050)، مكسيكو سيتي، المكسيك في 27 فبراير. لمزيد من المعلومات راسل @elian.
+* [خاليسكو Talent Land](https://www.talent-land.mx/#entradas) في غوادالاخارا، المكسيك في 22-26 أبريل.اتصل بـ elian إذا كنت مهتمًا بالمساعدة / الحضور.
 
 وقد نوقش وعرض في [هذا العدد](https://github.com/xaur/decred-issues/issues/83) فعاليات ذات إتجاه مفتوح المصدر مثل DEFCON وCCC وFOSDEM.
 
 ## وسائل الإعلام
 
-### مبادرات المجتمع:
+مبادرات المجتمع:
 
-•	[blog.dcrclub.org](https://blog.dcrclub.org/) هو موقع إلكتروني جديد باللغة الصينية يجمع العديد من المقالات والترجمات في مكان واحد. المصدر المستضاف [على GitHub](https://github.com/0x5826/blog.dcrclub.org) يجعل من السهل المساهمة أو عكس موقع الويب على نطاق آخر لمزيد من المرونة. الإعتماد ل@TogT4V (Telegram) لبدء الموقع.
-
-•	[مدونة عربية جديدة](https://decred-arabia.blogspot.com/2019/01/blog-post.html) عن الديكريد بدأت بواسطة @butterfly (@arij على Matrix). هناك بعض التحديات مع نشر النص العربي على شبكة الإنترنت، ونرحب بالمشورة في # writers_room.
-
-•	[ بدأ](https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$1548814257223928fVjiP:matrix.org) @michae2xl سلسة من الملفات الصوتية البرتغالية، وهي متوفرة على [Soundcloud](https://soundcloud.com/user-770106247/) وSpotify وApple Podcasts وGoogle Podcasts - ابحث عن "Decred Brasil".
-
-•	[decredexplorer@](https://twitter.com/decredexplorer) عبارة عن حساب Twitter جديد مخصص لـ dcrdata. شكرا ل@michae2xl للتنظيم.
-
-•	و [قدم](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/[$154825336714293n](https://t.me/DecredAgg)fWdU:decred.org) @Matt D  Decred Aggregator على قناة التيليغرام. ويهدف إلى جمع الأخبار، الصحافة، مقاطع الفيديو، البودكاست، وإعلانات الديكريد، التغريدات الشائعة، ورسائل الريديت، بالإضافة إلى إحصاءات السوق.
-
-•	كما يخطط @anshawblack لبودكاست.
+* [blog.dcrclub.org](https://blog.dcrclub.org/) هو موقع إلكتروني جديد باللغة الصينية يجمع العديد من المقالات والترجمات في مكان واحد. المصدر المستضاف [على GitHub](https://github.com/0x5826/blog.dcrclub.org) يجعل من السهل المساهمة أو عكس موقع الويب على نطاق آخر لمزيد من المرونة. الإعتماد ل@TogT4V (Telegram) لبدء الموقع.
+* [مدونة عربية جديدة](https://decred-arabia.blogspot.com/2019/01/blog-post.html) عن الديكريد بدأت بواسطة @butterfly (@arij على Matrix). هناك بعض التحديات مع نشر النص العربي على شبكة الإنترنت، ونرحب بالمشورة في # writers_room.
+* [ بدأ](https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$1548814257223928fVjiP:matrix.org) @michae2xl سلسة من الملفات الصوتية البرتغالية، وهي متوفرة على [Soundcloud](https://soundcloud.com/user-770106247/) وSpotify وApple Podcasts وGoogle Podcasts - ابحث عن "Decred Brasil".
+* [decredexplorer@](https://twitter.com/decredexplorer) عبارة عن حساب Twitter جديد مخصص لـ dcrdata. شكرا ل@michae2xl للتنظيم.
+* و [قدم](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/[$154825336714293n](https://t.me/DecredAgg)fWdU:decred.org) @Matt D  Decred Aggregator على قناة التيليغرام. ويهدف إلى جمع الأخبار، الصحافة، مقاطع الفيديو، البودكاست، وإعلانات الديكريد، التغريدات الشائعة، ورسائل الريديت، بالإضافة إلى إحصاءات السوق.
+* كما يخطط @anshawblack لعمل بودكاست.
 
 تم حذف [صفحة الديكريد](https://en.wikipedia.org/wiki/Decred) على ويكيبيديا. في 8 يناير قام مستخدم [بإزالة](https://archive.fo/ApV3P) مجموعة من "المصادر السيئة" وفي 10 يناير قام بتخريب الصفحة عن طريق إزالة جزء كبير ومهم من المحتوى. بعد 4 ساعات فقط رشح مستخدم آخر صفحة الديكريد للحذف - و كانت هذه [المحاولة الثالثة](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Decred_%283rd_nomination%29) لإزالتها. لمعلومات مرجعية، كان لمؤلف [الترشيح الثاني](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Decred_%282nd_nomination%29) للحذف [وجهات نظر](https://archive.fo/QAlRp) مثيرة للاهتمام حول النزاهة وتم [حظره](https://en.wikipedia.org/wiki/User:Prince_of_Thieves) باعتباره دمية جورب (شخصية مزوّرة). وفي 11 كانون الثاني / يناير، أعيد نقل المحتوى وتم حظر صاحب البلاغ على أنه " دمية جورب " ، ولكن في اليوم التالي، قام مستخدم آخر [بتطبيق الحذف](https://archive.fo/fZUHW) مرة أخرى دون ترك أي تعليق. بعد تقسيم الصفحة أصبحت صغيرة جدا وجميع المستعرضين [صوتوا](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Decred_%283rd_nomination%29) لحذفها بسبب عدم وجود مصادر حسنة السمعة. واعتبرت مراجع جميع المقالات الأخيرة المقترحة في وسائل إعلام التشفير الرئيسية [غير جيدة بما فيه الكفاية](https://archive.fo/4xwaN). وفي 18 يناير تم حذف الصفحة وإزالتها من [قائمة العملات](https://en.wikipedia.org/wiki/List_of_cryptocurrencies) التي تم تركها مع عملات أكثر وضوحا. وترد في [هذه المسألة](https://github.com/xaur/decred-issues/issues/79) تفاصيل وصلات بالمناقشات. محررو ويكيبيديا ذو ي الخبرة مرحب بهم للمساعدة.
 
-### مقالات مختارة (بالترتيب الزمني):
+مقالات مختارة (بالترتيب الزمني):
  
-•	فهم إدارة الديكريد بواسطة الدكتور بتكوين (صيني، [qq.com](https://mp.weixin.qq.com/s/z3hzILiPBsLJR72Q2tP7TQ)، [ترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz3hzILiPBsLJR72Q2tP7TQ)، فوت في عدد دجنبر)
+* فهم إدارة الديكريد بواسطة الدكتور بتكوين (صيني، [qq.com](https://mp.weixin.qq.com/s/z3hzILiPBsLJR72Q2tP7TQ)، [ترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz3hzILiPBsLJR72Q2tP7TQ)، فوت في عدد دجنبر)
+* التحليل الأساسي: الديكريد بواسطة [Piotr Arenda](https://www.linkedin.com/pulse/funadamental-analysis-decred-dcr-piotr-arendarski-ph-d)rski (linkedin.com)
+* كيف تتغلب على فصل شتاء العملات الرقمية؟ إبحث عن البساطة ودبر الطابع المعقد، بواسطة @[jy-p (coinde](https://www.coindesk.com/how-to-last-the-crypto-winter-seek-simplicity-manage-complexity)sk.com، كما تم وضع الشعار بعد جمع الأفكار الجماعية على #marketing)
+*الديكريد -مقابلة مع مدير المنتدى @donmario بواسطة [Janusz Zi](https://bithub.pl/wywiady/decred-wywiad-z-community-managerem/)elinski (bithub.pl)
+* أفضل محافظ الديكريد: أفضل 6 أماكن لتخزين DCR الخاص بك بواسطة ستيف والترز، ([coinbureau.com](https://www.coinbureau.com/analysis/best-decred-wallets/)، قضيّة جميلة عندما يكون المؤلفون متجاوبين وقاموا بتصحيح جميع [القضايا المبلغ عنها](https://github.com/xaur/decred-issues/issues/68))
+* من يجب أن يتولى السلطة؟ إدارة الديكريد وما الذي تعنيه للمستثمرين بواسطة ليزلي انكني ([forbes.com](https://www.forbes.com/sites/leslieankney/2019/01/11/who-should-hold-power-decred-governance-and-what-it-means-for-investors/))
+* خارطة الطريق المستقلة للمقاولين لعام 2019، ([medium](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39))
+* آلية توافق الآراء الفريدة من الديكريد -هل هذه اللامركزية الحقيقية؟ بواسطة بول دو هافيلاند ([bitsonline](https://bitsonline.com/consensus-mechanism-of-decred-decentralization/))
+* الديكريد كمستودع للقيمة بواسطة Yin Guochao، مستوحى من مقالة Forbes (الصينية، [qq.com](https://mp.weixin.qq.com/s/_-lY0rtWSPiyLPZeTRR7gg)، [الترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-lY0rtWSPiyLPZeTRR7gg))
+* مراجعة مشروع البلوكشين: الديكريد: 8.4 العملة الرقمية المستقلة بواسطة Evaluape ([Medium](https://medium.com/@EVALUAPE1/blockchain-project-review-decred-8-4-autonomous-digital-currency-323771d65529) ،تم تقييم الديكريد 8.4/10)
+* مراجعة العملة الديكريد: أتحل محل BTC؟ بواسطة ادوين (الهولندية،[bitcoinsaltcoins.nl ](https://www.bitcoinsaltcoins.nl/decred-coin-review-vervanger-van-btc/) ، تم تقييم الديكريد (medium 8.8/10)
+* 3 عملات رقمية تخزنها خلال فصل شتاء العملات الرقمية بواسطة [Daniel Frumkin (invest](https://www.investinblockchain.com/cryptocurrencies-hodl-during-crypto-winter/inblockchain.com)
+* القيمة الأساسية في العملات الرقمية؛ البتكوين والديكريد كمخزن لاستثمارات القيمة بواسطة LCC Investment Research ([seekingalpha.com](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments))
+* دور الناخبين ذوي النفوذ في الدفاع ضد هجمات الأغلبية بقلم @richardred ([medium](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd))
+*الحكم اللامركزي خارج السلسلة في سياق العملات الرقمية بواسطة [@Haon (goodaudien](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412)ce.com)
+* مقابلات الهيكل الأساسي للديكريد: ستيفن، مؤسس سوق السلع الفاخرة فقط، CryptoEmporium بقلم @kozel [medium](https://medium.com/@artikozel/decred-infrastructure-interviews-stephen-founder-of-crypto-only-luxury-goods-marketplace-68d3214a4fd7)
+* مراجعة الديكريد بقلم [Lee Banfield  (weeklyglobalresearc](https://weeklyglobalresearch.wordpress.com/2019/01/31/decred-dcr-review/)h.wordpress.com)
 
-•	التحليل الأساسي: الديكريد بواسطة [Piotr Arenda](https://www.linkedin.com/pulse/funadamental-analysis-decred-dcr-piotr-arendarski-ph-d)rski (linkedin.com)
+الترجمة:
 
-•	كيف تتغلب على فصل شتاء العملات الرقمية؟ إبحث عن البساطة ودبر الطابع المعقد، بواسطة @[jy-p (coinde](https://www.coindesk.com/how-to-last-the-crypto-winter-seek-simplicity-manage-complexity)sk.com، كما تم وضع الشعار بعد جمع الأفكار الجماعية على #marketing)
+* [تحليل مفصل لمقاومة تفرع الديكريد](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7) بقلم @Haon -تمت ترجمته إلى [الروسية](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea) بواسطة @DZ
+* صحيفة الديكريد لشهر دجنبر 2018: تمت ترجمتها إلى: [الصينية](https://www.jianshu.com/p/65e7a83ac27c) بواسطة @guang، [البولندية](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201812_DecredJournalPL.md) بواسطة @kozel، [البرتغالية](https://medium.com/@maiconjunge/jornal-decred-dezembro-de-2018-947c616b894f) بواسطة @maiconjunge، [الروسية](https://medium.com/decred-russia/decred-journal-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C-2018-9528f7a9d24d) بواسطة @DZ، و[الإسبانية](https://medium.com/@decred_es/revista-decred-diciembre-2018-79093f957aac) بواسطة @elian. يا للروعة! شكرا لكم جميعا على نشر مذكرات الديكريد حول العالم! جميع الترجمات مدرجة [هنا](https://xaur.github.io/decred-news/).
 
-•	الديكريد -مقابلة مع مدير المنتدى @donmario بواسطة [Janusz Zi](https://bithub.pl/wywiady/decred-wywiad-z-community-managerem/)elinski (bithub.pl)
+أشرطة الفيديو:
 
-•	أفضل محافظ الديكريد: أفضل 6 أماكن لتخزين DCR الخاص بك بواسطة ستيف والترز، ([coinbureau.com](https://www.coinbureau.com/analysis/best-decred-wallets/)، قضيّة جميلة عندما يكون المؤلفون متجاوبين وقاموا بتصحيح جميع [القضايا المبلغ عنها](https://github.com/xaur/decred-issues/issues/68))
+* تطبيقات الختم الزمني للبلوكشين - بواسطة @jy-p في TNABC ([اليوتيوب](https://www.youtube.com/watch?v=3RRTidXh_Lw))
+* المقابلات التي أجريت في TNABC  [مع  @joshuam](https://www.youtube.com/watch?v=Kyihc6Uh4XA) بواسطة  Hack Crypto، [مع  @joshuam](https://bitsonline.com/decred-disputes-inevitable-buirski/) بواسطة Bitsonline ،  [مع @DZ](https://www.youtube.com/watch?v=h3bII-vjOsA)، [مع @jz](https://www.youtube.com/watch?v=4oKRVXGN6Fs) بواسطة CNBC Crypto Trader.
+* الإدارة: عمود البلوكشين الأكثر تغييراً - بواسطة @oregonisaac في منتدى العملات الرمزية 2  ([tfblock.io](https://www.tfblock.io/post/governance-blockchain-s-most-overlooked-pillar))
 
-•	من يجب أن يتولى السلطة؟ إدارة الديكريد وما الذي تعنيه للمستثمرين بواسطة ليزلي انكني ([forbes.com](https://www.forbes.com/sites/leslieankney/2019/01/11/who-should-hold-power-decred-governance-and-what-it-means-for-investors/))
+الصوتيات:
 
-•	خارطة الطريق المستقلة للمقاولين لعام 2019، ([medium](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39))
-
-•	آلية توافق الآراء الفريدة من الديكريد -هل هذه اللامركزية الحقيقية؟ بواسطة بول دو هافيلاند ([bitsonline](https://bitsonline.com/consensus-mechanism-of-decred-decentralization/))
-
-•	 الديكريد كمستودع للقيمة بواسطة Yin Guochao، مستوحى من مقالة Forbes (الصينية، [qq.com](https://mp.weixin.qq.com/s/_-lY0rtWSPiyLPZeTRR7gg)، [الترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-lY0rtWSPiyLPZeTRR7gg))
-
-•	مراجعة مشروع البلوكشين: الديكريد: 8.4 العملة الرقمية المستقلة بواسطة Evaluape ([Medium](https://medium.com/@EVALUAPE1/blockchain-project-review-decred-8-4-autonomous-digital-currency-323771d65529) ،تم تقييم الديكريد 8.4/10)
-
-•	مراجعة العملة الديكريد: أتحل محل BTC؟ بواسطة ادوين (الهولندية،[bitcoinsaltcoins.nl ](https://www.bitcoinsaltcoins.nl/decred-coin-review-vervanger-van-btc/) ، تم تقييم الديكريد (medium 8.8/10)
-
-•	3 عملات رقمية تخزنها خلال فصل شتاء العملات الرقمية بواسطة [Daniel Frumkin (invest](https://www.investinblockchain.com/cryptocurrencies-hodl-during-crypto-winter/inblockchain.com)
-
-•	القيمة الأساسية في العملات الرقمية؛ البتكوين والديكريد كمخزن لاستثمارات القيمة بواسطة LCC Investment Research ([seekingalpha.com](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments))
-
-•	دور الناخبين ذوي النفوذ في الدفاع ضد هجمات الأغلبية بقلم @richardred ([medium](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd))
-
-•	الحكم اللامركزي خارج السلسلة في سياق العملات الرقمية بواسطة [@Haon (goodaudien](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412)ce.com)
-
-•	مقابلات الهيكل الأساسي للديكريد: ستيفن، مؤسس سوق السلع الفاخرة فقط، CryptoEmporium بقلم @kozel [medium](https://medium.com/@artikozel/decred-infrastructure-interviews-stephen-founder-of-crypto-only-luxury-goods-marketplace-68d3214a4fd7)
-
-•	مراجعة الديكريد بقلم [Lee Banfield  (weeklyglobalresearc](https://weeklyglobalresearch.wordpress.com/2019/01/31/decred-dcr-review/)h.wordpress.com)
-
-### الترجمة:
-
-•	[تحليل مفصل لمقاومة تفرع الديكريد](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7) بقلم @Haon -تمت ترجمته إلى [الروسية](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea) بواسطة @DZ
-
-•	صحيفة الديكريد لشهر دجنبر 2018: تمت ترجمتها إلى: [الصينية](https://www.jianshu.com/p/65e7a83ac27c) بواسطة @guang، [البولندية](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201812_DecredJournalPL.md) بواسطة @kozel، [البرتغالية](https://medium.com/@maiconjunge/jornal-decred-dezembro-de-2018-947c616b894f) بواسطة @maiconjunge، [الروسية](https://medium.com/decred-russia/decred-journal-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C-2018-9528f7a9d24d) بواسطة @DZ، و[الإسبانية](https://medium.com/@decred_es/revista-decred-diciembre-2018-79093f957aac) بواسطة @elian. يا للروعة! شكرا لكم جميعا على نشر مذكرات الديكريد حول العالم! جميع الترجمات مدرجة [هنا](https://xaur.github.io/decred-news/).
-
-### أشرطة الفيديو:
-
-•	تطبيقات الختم الزمني للبلوكشين - بواسطة @jy-p في TNABC ([اليوتيوب](https://www.youtube.com/watch?v=3RRTidXh_Lw))
-
-•	المقابلات التي أجريت في TNABC  [مع  @joshuam](https://www.youtube.com/watch?v=Kyihc6Uh4XA) بواسطة  Hack Crypto، [مع  @joshuam](https://bitsonline.com/decred-disputes-inevitable-buirski/) بواسطة Bitsonline ،  [مع @DZ](https://www.youtube.com/watch?v=h3bII-vjOsA)، [مع @jz](https://www.youtube.com/watch?v=4oKRVXGN6Fs) بواسطة CNBC Crypto Trader.
-
-•	الإدارة: عمود البلوكشين الأكثر تغييراً - بواسطة @oregonisaac في منتدى العملات الرمزية 2  ([tfblock.io](https://www.tfblock.io/post/governance-blockchain-s-most-overlooked-pillar))
-
-### الصوتيات:
-
-•	لنأخذ نظرة عميقة حول العملات الرقمية المستقلة مع الديكريد - @moo31337 و @BAB يتحدثان عن أن كيفية اتخاذ القرارات اللامركزية والتمويل الذاتي مكنا الديكريد من بناء عملة رقمية قوية ومتطورة خالية من نفوذ الطرف الثالث بودكاست ل The Crypto Chick مع Rachel Wolfson ([badcryptopodcast.com](https://badcryptopodcast.com/2019/01/08/autonomous-crypto-decred/)
-
-•	إدارة البلوكشين مع  Noah Pierau: الديكريد، البتكوين، الداش، الإثيريوم (51% من أبحاث العملات الرقمية بواسطة [Tom Sh](https://itunes.apple.com/us/podcast/noah-pierau-on-blockchain-governance-decred-bitcoin/id1438148082?i=1000428113722&mt=2)aughnessy, itunes)
-
-•	كيف يغير الديكريد ثورة التمويل في العملات الرقمية مع ماركو بريبوم - مايكل ناي وماركو يناقشان الوضع الحالي للعملات الرقمية، كيف بدأ الديكريد، إثبات الحصة مقارنة بإثبات العمل، ونموذج تمويل الديكريد والمزيد ([Evolvement Po](https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom/)dcast, evolvement.io)
+* لنأخذ نظرة عميقة حول العملات الرقمية المستقلة مع الديكريد - @moo31337 و @BAB يتحدثان عن أن كيفية اتخاذ القرارات اللامركزية والتمويل الذاتي مكنا الديكريد من بناء عملة رقمية قوية ومتطورة خالية من نفوذ الطرف الثالث بودكاست ل The Crypto Chick مع Rachel Wolfson ([badcryptopodcast.com](https://badcryptopodcast.com/2019/01/08/autonomous-crypto-decred/)
+* إدارة البلوكشين مع  Noah Pierau: الديكريد، البتكوين، الداش، الإثيريوم (51% من أبحاث العملات الرقمية بواسطة [Tom Sh](https://itunes.apple.com/us/podcast/noah-pierau-on-blockchain-governance-decred-bitcoin/id1438148082?i=1000428113722&mt=2)aughnessy, itunes)
+* كيف يغير الديكريد ثورة التمويل في العملات الرقمية مع ماركو بريبوم - مايكل ناي وماركو يناقشان الوضع الحالي للعملات الرقمية، كيف بدأ الديكريد، إثبات الحصة مقارنة بإثبات العمل، ونموذج تمويل الديكريد والمزيد ([Evolvement Po](https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom/)dcast, evolvement.io)
 
 ## مناقشات المجتمع
 
-### إحصائيات المجتمع اعتبارًا من 4 فبراير:
+إحصائيات المجتمع اعتبارًا من 4 فبراير:
 
-•	متابعو التويتر:39,778 (-106)
+* متابعو التويتر:39,778 (-106)
+* المشتركين في ريديت:9,330 (+89)
+* مستخدمي الماتريكس:247 (+26)
+* مستخدمي السلاك:6,529 (+110)
+* مستخدمي التيليغرام:4,503 (-231)
+*المشاركين في اليوتيوب:3,752 (+14)
+* متابعي الفايسبوك:3,132 (+11)، إعجاب:2,891 (+11)
+* متابعي LinkedIn: صفحة الديكريد 466 (+16)، صفحة بوليتيا 27 (+3)
+* GitHub dcrd stars:468 (+10)، تفرع:1,221 (+29)
 
-•	المشتركين في ريديت:9,330 (+89)
+أخبار أنظمة الاتصالات:
 
-•	مستخدمي الماتريكس:247 (+26)
-
-•	مستخدمي السلاك:6,529 (+110)
-
-•	مستخدمي التيليغرام:4,503 (-231)
-
-•	المشاركين في اليوتيوب:3,752 (+14)
-
-•	متابعي الفايسبوك:3,132 (+11)، إعجاب:2,891 (+11)
-
-•	متابعي LinkedIn: صفحة الديكريد 466 (+16)، صفحة بوليتيا 27 (+3)
-
-•	GitHub dcrd stars:468 (+10)، تفرع:1,221 (+29)
-
-### أخبار أنظمة الاتصالات:
-
-•	يستمر [نزيف تابعي](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$1549500437341uJIFK:decred.org) تويتر البطيء لأسباب غير معروفة. أي أفكار هي موضع ترحيب.
-
-•	هبوط في عدد مستخدمي التيليغرام من المحتمل بسبب تطهير الروبوت. 
-
-•	كتب @sambiohazard [خطة](https://github.com/xaur/decred-issues/issues/16) شاملة لمعالجة مشكلة الرسائل المزعجة على Discord، قام بتنفيذها، ولم يبلغ عن أي رسائل مزورة بعد الأسابيع القليلة الأولى. كما تم وصل عدة قنوات مهمة مع Discord. مع هذا يمكننا أخيرا تقدير Discord كفرصة لجلب المزيد من الناس. شكرا لكم!
-
-•	يرشد [decred.org/matrix](https://decred.org/matrix/) مستخدمي الماتريكس الجدد إلى النظام.
-
-•	نمت [قضايا الديكريد](https://github.com/xaur/decred-issues) إلى 105 قضية اعتبارا من 9 فبراير. تحقق من ذلك، ربما ستجد شيئًا مثيرًا للاهتمام! 
+* يستمر [نزيف تابعي](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$1549500437341uJIFK:decred.org) تويتر البطيء لأسباب غير معروفة. أي أفكار هي موضع ترحيب.
+* هبوط في عدد مستخدمي التيليغرام من المحتمل بسبب تطهير الروبوت. 
+* كتب @sambiohazard [خطة](https://github.com/xaur/decred-issues/issues/16) شاملة لمعالجة مشكلة الرسائل المزعجة على Discord، قام بتنفيذها، ولم يبلغ عن أي رسائل مزورة بعد الأسابيع القليلة الأولى. كما تم وصل عدة قنوات مهمة مع Discord. مع هذا يمكننا أخيرا تقدير Discord كفرصة لجلب المزيد من الناس. شكرا لكم!
+* يرشد [decred.org/matrix](https://decred.org/matrix/) مستخدمي الماتريكس الجدد إلى النظام.
+* نمت [قضايا الديكريد](https://github.com/xaur/decred-issues) إلى 105 قضية اعتبارا من 9 فبراير. تحقق من ذلك، ربما ستجد شيئًا مثيرًا للاهتمام! 
 
 وقد أثارت [إنتقادات](https://twitter.com/tonevays/status/1086702239853379584)  متطرفوا البتكوين [مناقشة](https://www.reddit.com/r/decred/comments/ahuawl/decred_launch_security_laws/) حول الكيفية التي ينظر بها الديكريد في سياق القوانين الأمنية. و كان رأي أحد النقاد أن التعدين القبلي للديكريد و توزيع airdrop  لم يكن عادلا و "تم اختيارهم يدويًا". هذا تمثيل خاطئ للجهد اليدوي (الضخم) لتصفية غشاشين airdrop، وفي [هذه المناقشة](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154810656412322VrQLg:decred.org) العديد من الروابط المفيدة التي تصف كيفية إطلاق الديكريد. إحدى الأفكار المثيرة للاهتمام هي أن بعض القطع النقدية التي تم توزيعها و التي تبلغ ~300 آلاف (35%) لم تتحرك أبدًا. [دردشة](https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$15467943549316LjeYZ:decred.org) أخرى ذات صلة، تهم هجمات التويتر والتي تدعي أن التوزيع الأولي للديكريد لم يكن شفافا أو نزيها ، مع تجنب الحقائق غير الملائمة حول التعدين المبكر للبتكوين والمليون BTC التي أخذها ساتوشي. وأخيرا، [درس في التاريخ](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15467944729319gvTvt:decred.org) أوضح الأيام الأولى للتحصيص، وبين أن المطورين الأصليين لا يملكون أي سيطرة أحادية على قواعد الإجماع منذ اليوم الأول. 
 
@@ -376,7 +295,7 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 ## الخارجية ذات الصلة
 
- تعرض Ethereum Classic (ETC) لهجوم بنسبة 51 ٪ ، مع رفع التحذير بواسطة [CoinNess](https://www.coinness.com/news/198264) في 7  من يناير. ثم [أعلنت](https://blog.coinbase.com/ethereum-classic-etc-is-currently-being-51-attacked-33be13ce32de?gi=4f97315dfb30) شركة Coinbase أنها قد اكتشفت عملية إعادة تنظيم عميقة لسلسلة ETC وأوقفت معاملات ETC. تسرد المقالة عددًا من عمليات إعادة التنظيم التي تضمنت إنفاقًا مضاعفًا ، مما يضع إجمالي المبلغ في 1.1 مليون دولار ، عبر 15 حدثًا مختلفًا لإعادة التنظيم.لم تكن Coinbase نفسها هدفا لهذه الهجمات.بعد ذلك ، [أعلنت](https://blog.coinbase.com/ethereum-classic-etc-is-currently-being-51-attacked-33be13ce32de?gi=4f97315dfb30) منصة Gate.io للتبادل أنها استهدفت وفقدت حوالي 200 ألف دولار ، وأنها ستستوعب الخسارة. كما زاد Gate.io بشكل ملحوظ عدد التأكيدات المطلوبة لودائع ETC. في تطور غير عادي ، قام المهاجم [بإرجاع](https://www.gate.io/article/16740) 100 ألف دولار من ETC إلى Gate.io ، حاولوا ولكنهم فشلوا في الاتصال بالمهاجم ولا يعرفون سبب إرجاع الأموال.ولم يتقدم أي من الضحايا الآخرين للنفقات المزدوجة لETC.
+تعرض Ethereum Classic (ETC) لهجوم بنسبة 51 ٪ ، مع رفع التحذير بواسطة [CoinNess](https://www.coinness.com/news/198264) في 7  من يناير. ثم [أعلنت](https://blog.coinbase.com/ethereum-classic-etc-is-currently-being-51-attacked-33be13ce32de?gi=4f97315dfb30) شركة Coinbase أنها قد اكتشفت عملية إعادة تنظيم عميقة لسلسلة ETC وأوقفت معاملات ETC. تسرد المقالة عددًا من عمليات إعادة التنظيم التي تضمنت إنفاقًا مضاعفًا ، مما يضع إجمالي المبلغ في 1.1 مليون دولار ، عبر 15 حدثًا مختلفًا لإعادة التنظيم.لم تكن Coinbase نفسها هدفا لهذه الهجمات.بعد ذلك ، [أعلنت](https://blog.coinbase.com/ethereum-classic-etc-is-currently-being-51-attacked-33be13ce32de?gi=4f97315dfb30) منصة Gate.io للتبادل أنها استهدفت وفقدت حوالي 200 ألف دولار ، وأنها ستستوعب الخسارة. كما زاد Gate.io بشكل ملحوظ عدد التأكيدات المطلوبة لودائع ETC. في تطور غير عادي ، قام المهاجم [بإرجاع](https://www.gate.io/article/16740) 100 ألف دولار من ETC إلى Gate.io ، حاولوا ولكنهم فشلوا في الاتصال بالمهاجم ولا يعرفون سبب إرجاع الأموال.ولم يتقدم أي من الضحايا الآخرين للنفقات المزدوجة لETC.
 
 [قرر](https://www.coindesk.com/ethereum-developers-give-tentative-greenlight-to-asic-blocking-code) مطورو شركة Ethereum (مؤقتًا) في 4 كانون الثاني (يناير) المضي قدماً في تغيير خوارزمية التعدين من Ethash إلى ProgPoW. تهدف هذه الخطوة إلى وقف ASICs من تعدين Ethereum.وقد [أوضحت](https://www.theblockcrypto.com/2019/01/11/despite-core-dev-consensus-proposition-progpow-faces-community-concerns/) The Block  المخاوف مثل انخفاض تكلفة الهجوم بعد التبديل، والحوافز الضعيفة للمعدنين في GPU ، والفوائد المشكوك فيها لنقل الطاقة من Bitmain و Innosilicon إلى AMD و Nvidia ، وانقسام محتمل للسلسلة. 
 وخلصوا إلى أن النقاش حول تبديل الخوارزمية سيكون اختبارًا جيدًا لعملية إدارة Ethereum.
@@ -427,6 +346,6 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 نرحب بتعليقاتك ومساهماتك على Reddit و [GitHub](https://github.com/xaur/decred-news/issues) و [Matrix](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org).
 
-•الاعتمادات (بالترتيب الأبجدي): bee، davecgh, degeri, Dustorf, guang، Haon, jholdstock, liz_bagot, lukebp, matheusd, richardred, zubairzia0.
+* الاعتمادات (بالترتيب الأبجدي): bee, davecgh, degeri, Dustorf, guang, Haon, jholdstock, liz_bagot, lukebp, matheusd, richardred, saender, zubair،ia0.
 
 </div>
