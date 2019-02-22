@@ -1,5 +1,7 @@
 <div dir="rtl">
 
+![abstract art](https://github.com/Insaf01/decred-journal-ar/blob/master/journal-201901-384.jpg)
+
 # صحيفة الديكريد لشهر يناير2019 
 
 شهد الديكريد بداية سنة 2019 إصدارات كبيرة للبرمجيات والتطورات الهامة في أجزاء أخرى من المشروع. 
