@@ -1,4 +1,3 @@
 # Arabic Decred Journal
 وصلة التقرير الشهري لأخبار الديكريد بالعربية
-
-[يناير](https://github.com/Insaf01/DedredJournalAR/blob/master/DecredJournalAR-012019.md)<br/>
+### [decred-journal-ar-2019-01](decred-journal-ar-2019-01.md)
