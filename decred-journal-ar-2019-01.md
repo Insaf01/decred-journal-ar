@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 # صحيفة الديكريد لشهر يناير2019 
 
@@ -353,5 +352,3 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 قم بزيارة مجلة الديكريد الكاملة باللغة الإنجليزية على الرابط التالي: [رابط الصفحة](https://xaur.github.io/decred-news/journal/201901.html).
 
 الترجمة إلى العربية: @butterfly (@Arij)
-
-</div>
