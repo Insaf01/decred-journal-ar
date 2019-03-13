@@ -1,5 +1,4 @@
 
-
 # صحيفة الديكريد لشهر يناير2019 
 
 ![abstract art](journal-201901-384.jpg)
@@ -244,7 +243,7 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 * 3 عملات رقمية تخزنها خلال فصل شتاء العملات الرقمية بواسطة Daniel Frumkin  على  [investinblockchain.com](https://www.investinblockchain.com/cryptocurrencies-hodl-during-crypto-winter/inblockchain.com)
 * القيمة الأساسية في العملات الرقمية؛ البتكوين والديكريد كمخزن لاستثمارات القيمة بواسطة LCC Investment Research على [seekingalpha.com](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments)
 * دور الناخبين ذوي النفوذ في الدفاع ضد هجمات الأغلبية بقلم @richardred على [Medium](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd).
-*الحكم اللامركزي خارج السلسلة في سياق العملات الرقمية بواسطة @Haon   على [goodaudience.com](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412)
+* الحكم اللامركزي خارج السلسلة في سياق العملات الرقمية بواسطة @Haon   على [goodaudience.com](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412)
 * مقابلات الهيكل الأساسي للديكريد: ستيفن، مؤسس سوق السلع الفاخرة فقط، CryptoEmporium بقلم @kozel على [medium](https://medium.com/@artikozel/decred-infrastructure-interviews-stephen-founder-of-crypto-only-luxury-goods-marketplace-68d3214a4fd7)
 * مراجعة الديكريد بقلم Lee Banfield على [weeklyglobalresearch.wordpress.com](https://weeklyglobalresearch.wordpress.com/2019/01/31/decred-dcr-review/)
 
