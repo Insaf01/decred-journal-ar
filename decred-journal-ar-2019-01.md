@@ -349,6 +349,6 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 * الاعتمادات (بالترتيب الأبجدي): bee, davecgh, degeri, Dustorf, guang, Haon, jholdstock, liz_bagot, lukebp, matheusd, richardred, saender, zubair،ia0.
 
-قم بزيارة مجلة الديكريد  باللغة الإنجليزية على الرابط التالي:   https://xaur.github.io/decred-news/journal/201901.html .
+قم بزيارة مجلة الديكريد الكاملة باللغة الإنجليزية على الرابط التالي: [رابط الصفحة](https://xaur.github.io/decred-news/journal/201901.html).
 
 الترجمة إلى العربية: @butterfly (@Arij)
