@@ -231,8 +231,8 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
  
 * فهم إدارة الديكريد بواسطة الدكتور بتكوين مترجم إلى الصينية،[qq.com](https://mp.weixin.qq.com/s/z3hzILiPBsLJR72Q2tP7TQ)، [الترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz3hzILiPBsLJR72Q2tP7TQ)، تم تفويته  في عدد دجنبر.
 * التحليل الأساسي: الديكريد بواسطة Piotr Arendarski على [linkedin.com](https://www.linkedin.com/pulse/funadamental-analysis-decred-dcr-piotr-arendarski-ph-d/)
-* كيف تتغلب على فصل شتاء العملات الرقمية؟ إبحث عن البساطة ودبر الطابع المعقد، بواسطة @jy-p على [coindesk.com](https://www.coindesk.com/how-to-last-the-crypto-winter-seek-simplicity-manage-complexity)، كما تم وضع الشعار بعد جمع الأفكار الجماعية على منتدى #marketing.
-* الديكريد - مقابلة مع مدير المنتدى @donmario بواسطة Janusz Zi على[bithub.pl](https://bithub.pl/wywiady/decred-wywiad-z-community-managerem/)
+* كيف تتغلب على فصل شتاء العملات الرقمية؟ إبحث عن البساطة ودبر الطابع المعقد، بواسطة @jy-p على  [coindesk.com](https://www.coindesk.com/how-to-last-the-crypto-winter-seek-simplicity-manage-complexity)، كما تم وضع الشعار بعد جمع الأفكار الجماعية على منتدى #marketing.
+* الديكريد - مقابلة مع مدير المنتدى @donmario بواسطة Janusz Zi على [bithub.pl](https://bithub.pl/wywiady/decred-wywiad-z-community-managerem/)
 * أفضل محافظ الديكريد: أفضل 6 أماكن لتخزين DCR الخاص بك بواسطة ستيف والترز، [coinbureau.com](https://www.coinbureau.com/analysis/best-decred-wallets/)، من الجميل أن ترى المؤلفين متجاوبين وقاموا بتصحيح جميع [القضايا المبلغ عنها](https://github.com/xaur/decred-issues/issues/68)
 * من يجب أن يتولى السلطة؟ إدارة الديكريد وما الذي تعنيه للمستثمرين بواسطة ليزلي انكني [forbes.com](https://www.forbes.com/sites/leslieankney/2019/01/11/who-should-hold-power-decred-governance-and-what-it-means-for-investors/)
 * خارطة الطريق المستقلة للمقاولين لعام 2019، [medium](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)
