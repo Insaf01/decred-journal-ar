@@ -1,7 +1,8 @@
+<div dir="rtl">
 
 # صحيفة الديكريد لشهر يناير2019 
 
-![abstract art](https://github.com/Insaf01/decred-journal-ar/blob/master/journal-201901-384.jpg)
+![abstract art](journal-201901-384.jpg)
 
 شهد الديكريد بداية سنة 2019 إصدارات كبيرة للبرمجيات والتطورات الهامة في أجزاء أخرى من المشروع. 
 
@@ -229,23 +230,23 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 مقالات مختارة (بالترتيب الزمني):
  
-* فهم إدارة الديكريد بواسطة الدكتور بتكوين (صيني، [qq.com](https://mp.weixin.qq.com/s/z3hzILiPBsLJR72Q2tP7TQ)، [ترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz3hzILiPBsLJR72Q2tP7TQ)، فوت في عدد دجنبر)
-* التحليل الأساسي: الديكريد بواسطة [Piotr Arenda](https://www.linkedin.com/pulse/funadamental-analysis-decred-dcr-piotr-arendarski-ph-d)rski (linkedin.com)
-* كيف تتغلب على فصل شتاء العملات الرقمية؟ إبحث عن البساطة ودبر الطابع المعقد، بواسطة @[jy-p (coinde](https://www.coindesk.com/how-to-last-the-crypto-winter-seek-simplicity-manage-complexity)sk.com، كما تم وضع الشعار بعد جمع الأفكار الجماعية على #marketing)
-*الديكريد -مقابلة مع مدير المنتدى @donmario بواسطة [Janusz Zi](https://bithub.pl/wywiady/decred-wywiad-z-community-managerem/)elinski (bithub.pl)
-* أفضل محافظ الديكريد: أفضل 6 أماكن لتخزين DCR الخاص بك بواسطة ستيف والترز، ([coinbureau.com](https://www.coinbureau.com/analysis/best-decred-wallets/)، قضيّة جميلة عندما يكون المؤلفون متجاوبين وقاموا بتصحيح جميع [القضايا المبلغ عنها](https://github.com/xaur/decred-issues/issues/68))
-* من يجب أن يتولى السلطة؟ إدارة الديكريد وما الذي تعنيه للمستثمرين بواسطة ليزلي انكني ([forbes.com](https://www.forbes.com/sites/leslieankney/2019/01/11/who-should-hold-power-decred-governance-and-what-it-means-for-investors/))
-* خارطة الطريق المستقلة للمقاولين لعام 2019، ([medium](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39))
-* آلية توافق الآراء الفريدة من الديكريد -هل هذه اللامركزية الحقيقية؟ بواسطة بول دو هافيلاند ([bitsonline](https://bitsonline.com/consensus-mechanism-of-decred-decentralization/))
-* الديكريد كمستودع للقيمة بواسطة Yin Guochao، مستوحى من مقالة Forbes (الصينية، [qq.com](https://mp.weixin.qq.com/s/_-lY0rtWSPiyLPZeTRR7gg)، [الترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-lY0rtWSPiyLPZeTRR7gg))
-* مراجعة مشروع البلوكشين: الديكريد: 8.4 العملة الرقمية المستقلة بواسطة Evaluape ([Medium](https://medium.com/@EVALUAPE1/blockchain-project-review-decred-8-4-autonomous-digital-currency-323771d65529) ،تم تقييم الديكريد 8.4/10)
-* مراجعة العملة الديكريد: أتحل محل BTC؟ بواسطة ادوين (الهولندية،[bitcoinsaltcoins.nl ](https://www.bitcoinsaltcoins.nl/decred-coin-review-vervanger-van-btc/) ، تم تقييم الديكريد (medium 8.8/10)
-* 3 عملات رقمية تخزنها خلال فصل شتاء العملات الرقمية بواسطة [Daniel Frumkin (invest](https://www.investinblockchain.com/cryptocurrencies-hodl-during-crypto-winter/inblockchain.com)
-* القيمة الأساسية في العملات الرقمية؛ البتكوين والديكريد كمخزن لاستثمارات القيمة بواسطة LCC Investment Research ([seekingalpha.com](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments))
-* دور الناخبين ذوي النفوذ في الدفاع ضد هجمات الأغلبية بقلم @richardred ([medium](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd))
-*الحكم اللامركزي خارج السلسلة في سياق العملات الرقمية بواسطة [@Haon (goodaudien](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412)ce.com)
-* مقابلات الهيكل الأساسي للديكريد: ستيفن، مؤسس سوق السلع الفاخرة فقط، CryptoEmporium بقلم @kozel [medium](https://medium.com/@artikozel/decred-infrastructure-interviews-stephen-founder-of-crypto-only-luxury-goods-marketplace-68d3214a4fd7)
-* مراجعة الديكريد بقلم [Lee Banfield  (weeklyglobalresearc](https://weeklyglobalresearch.wordpress.com/2019/01/31/decred-dcr-review/)h.wordpress.com)
+* فهم إدارة الديكريد بواسطة الدكتور بتكوين مترجم إلى الصينية،[qq.com](https://mp.weixin.qq.com/s/z3hzILiPBsLJR72Q2tP7TQ)، [الترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz3hzILiPBsLJR72Q2tP7TQ)، تم تفويته  في عدد دجنبر.
+* التحليل الأساسي: الديكريد بواسطة Piotr Arenda  [linkedin.com](https://www.linkedin.com/pulse/funadamental-analysis-decred-dcr-piotr-arendarski-ph-d)rski)
+* كيف تتغلب على فصل شتاء العملات الرقمية؟ إبحث عن البساطة ودبر الطابع المعقد، بواسطة @jy-p على [coindesk.com](https://www.coindesk.com/how-to-last-the-crypto-winter-seek-simplicity-manage-complexity)sk.com)، كما تم وضع الشعار بعد جمع الأفكار الجماعية على #marketing
+*الديكريد - مقابلة مع مدير المنتدى @donmario بواسطة Janusz Zi على[bithub.pl](https://bithub.pl/wywiady/decred-wywiad-z-community-managerem/)
+* أفضل محافظ الديكريد: أفضل 6 أماكن لتخزين DCR الخاص بك بواسطة ستيف والترز، [coinbureau.com](https://www.coinbureau.com/analysis/best-decred-wallets/)، من الجميل أن ترى المؤلفين متجاوبين وقاموا بتصحيح جميع [القضايا المبلغ عنها](https://github.com/xaur/decred-issues/issues/68)
+* من يجب أن يتولى السلطة؟ إدارة الديكريد وما الذي تعنيه للمستثمرين بواسطة ليزلي انكني [forbes.com](https://www.forbes.com/sites/leslieankney/2019/01/11/who-should-hold-power-decred-governance-and-what-it-means-for-investors/)
+* خارطة الطريق المستقلة للمقاولين لعام 2019، [medium](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)
+* آلية توافق الآراء الفريدة من الديكريد -هل هذه اللامركزية الحقيقية؟ بواسطة بول دو هافيلاند [bitsonline](https://bitsonline.com/consensus-mechanism-of-decred-decentralization/)
+* الديكريد كمستودع للقيمة بواسطة Yin Guochao، مستوحى من مقالة Forbes، مترجم إلى الصينية، [qq.com](https://mp.weixin.qq.com/s/_-lY0rtWSPiyLPZeTRR7gg)، [الترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-lY0rtWSPiyLPZeTRR7gg)
+* مراجعة مشروع البلوكشين: الديكريد: 8.4 العملة الرقمية المستقلة بواسطة Evaluape على [Medium](https://medium.com/@EVALUAPE1/blockchain-project-review-decred-8-4-autonomous-digital-currency-323771d65529) ،تم تقييم الديكريد 8.4/10.
+* مراجعة العملة الديكريد: أتحل محل BTC؟ بواسطة ادوين، مترجم إلى الهولندية،[bitcoinsaltcoins.nl ](https://www.bitcoinsaltcoins.nl/decred-coin-review-vervanger-van-btc/) ، تم تقييم الديكريد medium 8.8/10
+* 3 عملات رقمية تخزنها خلال فصل شتاء العملات الرقمية بواسطة Daniel Frumkin  على  [investinblockchain.com](https://www.investinblockchain.com/cryptocurrencies-hodl-during-crypto-winter/inblockchain.com)
+* القيمة الأساسية في العملات الرقمية؛ البتكوين والديكريد كمخزن لاستثمارات القيمة بواسطة LCC Investment Research على [seekingalpha.com](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments))
+* دور الناخبين ذوي النفوذ في الدفاع ضد هجمات الأغلبية بقلم @richardred على [Medium](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd))
+*الحكم اللامركزي خارج السلسلة في سياق العملات الرقمية بواسطة @Haon   على [goodaudience.com](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412)ce.com)
+* مقابلات الهيكل الأساسي للديكريد: ستيفن، مؤسس سوق السلع الفاخرة فقط، CryptoEmporium بقلم @kozel على [medium](https://medium.com/@artikozel/decred-infrastructure-interviews-stephen-founder-of-crypto-only-luxury-goods-marketplace-68d3214a4fd7)
+* مراجعة الديكريد بقلم Lee Banfield على [weeklyglobalresearch.wordpress.com](https://weeklyglobalresearch.wordpress.com/2019/01/31/decred-dcr-review/)h.wordpress.com)
 
 الترجمة:
 
@@ -352,3 +353,5 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 قم بزيارة مجلة الديكريد الكاملة باللغة الإنجليزية على الرابط التالي: [رابط الصفحة](https://xaur.github.io/decred-news/journal/201901.html).
 
 الترجمة إلى العربية: @butterfly (@Arij)
+
+</div>
