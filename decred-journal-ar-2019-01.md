@@ -1,11 +1,11 @@
 
 # صحيفة الديكريد لشهر يناير2019 
 
-![abstract art](journal-201901-384.jpg)
+![abstract art](https://github.com/Insaf01/decred-journal-ar/blob/master/journal-201901-384.jpg)
 
 شهد الديكريد بداية سنة 2019 إصدارات كبيرة للبرمجيات والتطورات الهامة في أجزاء أخرى من المشروع. 
 
-تم [إصدار](https://github.com/decred/decred-binaries/releases/tag/v1.4.0) نسخة جديدة من برنامج العقدة والمحفظة (نسخة 1.4.0) والتي ستطلق التصويت على قواعد الإجماع (من بين أمور أخرى)، لذا ننصح بتحديث نسختكم الحالية. 
+تم [إصدار](https://github.com/decred/decred-binaries/releases/tag/v1.4.0) نسخة جديدة من برنامج العقدة والمحفظة (نسخة 1.4.0) والتي ستطلق التصويت على قواعد الإجماع (من بين أمور أخرى)،  لذا ننصح بتحديث نسختكم الحالية. 
 
 تم إصدار محفظة الهاتف النقال لdcrandroid  والتي تستخدم آلية النظام البسيط للتحقق من الدفع نظير لنظير(نسخة 1.0) وأصبحت متاحة على [جوجل بلاي ستور](https://play.google.com/store/apps/details?id=com.decred.dcrandroid.mainnet).
 
@@ -66,7 +66,7 @@
 
 ### مسائل أخرى:
 
-* تم بناء الموقع الجديد [لمكافأة إيجاد العلة](https://bounty.decred.org/) أيضا بواسطة  Hugo. [مستودع](https://github.com/decred/dcrbounty) الرموز مفتوح لتقارير الأخطاء والمساهمات.
+* تم بناء الموقع الجديد [لمكافأة إيجاد العلة](https://bounty.decred.org/) أيضا بواسطة  Hugo.  [مستودع](https://github.com/decred/dcrbounty) الرموز مفتوح لتقارير الأخطاء والمساهمات.
 * المزيد من تغييرات المصطلحات في  dcrwallet ، dcrdocs و dcrweb.
 * تتحول المشاريع تدريجيا إلى golangci-lint linter  أكثر سرعة.
 * تم [تمكين](https://github.com/decred/dcrweb/pull/537) المزيد من ترويسات الأمان على decred.org.
@@ -94,7 +94,7 @@
 تمت [إزالة](https://github.com/decred/dcrweb/issues/528) 4 مطورين غير نشطين من decred.org:
 Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet), Macaulay Davies (@mcedward), Rohit Nagori
 
-وقد [نشر ](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)المقاولون المستقلون للديكريد خططهم لعام 2019 ، وذلك بفضل ~ مساهمة 15 شخص .وقد أثار هذا المقال [مناقشة](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15476119656176jVTYW:decred.org) بشأن خرائط الطرق والتخطيط المركزي والاستقلال الذاتي للمتعاقدين ، فضلا عن تعليقات من منظمة "ديتو" (ditto).
+وقد [نشر ](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)المقاولون المستقلون للديكريد خططهم لعام 2019 ، وذلك بفضل ~ مساهمة 15 شخص . وقد أثار هذا المقال [مناقشة](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15476119656176jVTYW:decred.org) بشأن خرائط الطرق والتخطيط المركزي والاستقلال الذاتي للمتعاقدين ، فضلا عن تعليقات من منظمة "ديتو" (ditto).
 
 ## الإدارة
 
@@ -124,7 +124,7 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 - UUPool 8%
 - Luxor 4%
 - CoinMine 1%
-- أخرى13%   
+- أخرى 13%   
 
 أرقام توزيع المجمع تقريبية ولا يمكن تحديدها بدقة.
 
@@ -337,13 +337,13 @@ Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet)
 
 تم [الإبلاغ](https://www.zdnet.com/article/new-ransomware-strain-is-locking-up-bitcoin-mining-rigs-in-china/) عن موجة جديدة من عدوى HAnt (تمت مشاهدتها لأول مرة في أغسطس) تستهدف أجهزة التنقيب عن البتكوين.الفيروس يطالب بإصابة 1000 أجهزة أخرى أو دفع 10 BTC ، وإلا فإنه يهدد بحرق الجهاز.لم ترد أي تقارير عن تدمير المعدات حتى الآن.
 
-تم [اكتشاف](https://medium.com/@dsl_uiuc/fake-stake-attacks-on-chain-based-proof-of-stake-cryptocurrencies-b8b05723f806) الضعف الناتج عن استنفاد الموارد المعروف باسم Fake Stake attack في أزيد من 26 سلسلة كتلة بناءا على PoSv3، معظمها  خففت من حدة الإنتشار.جزء من السبب هو أن في كثير من هذه الأنظمة كانت طبقة إثبات حصة "مطعمة" بقاعدة بيانات Bitcoin Core بشكل غير آمن.واحد من مؤلفي التقرير غرد بأن الديكريد [لم يتأثر](https://twitter.com/Sanket1729/status/1087829688347701254). 
+تم [اكتشاف](https://medium.com/@dsl_uiuc/fake-stake-attacks-on-chain-based-proof-of-stake-cryptocurrencies-b8b05723f806) الضعف الناتج عن استنفاد الموارد المعروف باسم Fake Stake attack في أزيد من 26 سلسلة كتلة بناءا على PoSv3، معظمها  خففت من حدة الإنتشار. جزء من السبب هو أن في كثير من هذه الأنظمة كانت طبقة إثبات حصة "مطعمة" بقاعدة بيانات Bitcoin Core بشكل غير آمن. واحد من مؤلفي التقرير غرد بأن الديكريد [لم يتأثر](https://twitter.com/Sanket1729/status/1087829688347701254). 
 
 ## حول هذا العدد
 
 هذا هو العدد العاشر من مجلة الديكريد.ويوجد [هنا](https://xaur.github.io/decred-news/) فهرس لجميع الأعداد السابقة والمرايا والترجمات. 
 
-ويتم نقل معظم المعلومات الواردة من أطراف ثالثة مباشرة من المصدر بعد التحقق من صحتها.لا يملك مؤلفو صحيفة الديكريد أي قدرة على التحقق من جميع الادعاءات.رجاء إحذر من أعمال الاحتيال وقم ببحثك الخاص.
+ويتم نقل معظم المعلومات الواردة من أطراف ثالثة مباشرة من المصدر بعد التحقق من صحتها. لا يملك مؤلفو صحيفة الديكريد أي قدرة على التحقق من جميع الادعاءات. رجاء إحذر من أعمال الاحتيال وقم ببحثك الخاص.
 
 نرحب بتعليقاتك ومساهماتك على Reddit و [GitHub](https://github.com/xaur/decred-news/issues) و [Matrix](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org).
 
