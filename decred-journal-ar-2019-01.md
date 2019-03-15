@@ -58,7 +58,7 @@
 
 [تقسيم التذاكر](https://github.com/matheusd/dcr-split-ticket-matcher): تحسينات في الشفرة الداخلية ، العمل التمهيدي لإدماج Decrediton. تم إعداد [صفحة مراقبة](https://mainnet-split-tickets.matheusd.com/) تعرض جلسات تقسيم نشطة من جميع مقدمي خدمة التصويت VSPs التي تدعمها.
 
-[مستندات](https://github.com/decred/dcrdocs): صفحات جديدة: يعمل [مقدم خدمة التصويت](https://docs.decred.org/advanced/operating-a-vsp/) على تحديد متطلبات التكوين والمهارات المطلوبة لمشغلي خدمة التصويت، ويقدم  [التصويت المنفرد بإثبات العمل](https://docs.decred.org/advanced/solo-proof-of-stake-voting/) ل @jz  دليلا لجميع قارئي المستندات، كما تصف [تفاصيل العناوين](https://docs.decred.org/advanced/address-details/) جميع الأنواع المحتملة للعناوين، وتوضح [المساهمة في الديكريد](https://docs.decred.org/contributing/contributing-to-decred/) كيف تصبح مقاولا مدفوع الأجر.
+[مستندات](https://github.com/decred/dcrdocs): صفحات جديدة: يعمل [مقدم خدمة التصويت](https://docs.decred.org/advanced/operating-a-vsp/) على تحديد متطلبات التكوين والمهارات المطلوبة لمشغلي خدمة التصويت، ويقدم  [التصويت المنفرد بإثبات العمل](https://docs.decred.org/advanced/solo-proof-of-stake-voting/) ل jz@  دليلا لجميع قارئي المستندات، كما تصف [تفاصيل العناوين](https://docs.decred.org/advanced/address-details/) جميع الأنواع المحتملة للعناوين، وتوضح [المساهمة في الديكريد](https://docs.decred.org/contributing/contributing-to-decred/) كيف تصبح مقاولا مدفوع الأجر.
 
 استنتجت المناقشة الأمنية العميقة في documentation# أنه من الممكن تجميع [الإرشادات العامة لأمن الكمبيوتر](https://github.com/xaur/decred-issues/issues/101) والتي ستكون من شأنها أن تكون مفيدة في الفضاء بأكمله.
 
@@ -166,7 +166,7 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 ## مد الخدمة
 
 [يعتزم](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15468814029997AWtQJ:decred.org) فريق التسويق التخطيط لمقابلة الصحفيين الذين ينشرون معلومات غير دقيقة حول الديكريد. وكدليل اختباري  لسير هذا العمل، تم فحص إحدى المقالات السيئة من قبل المجتمع، و قد قام Ditto بجمع التعليقات الخاصة بهذه الحالة والحالات المستقبلية.Ditto  لديه [أنظمة](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154690407510431bVTJQ:decred.org) لتسجيل كل قطعة من وسائل الإعلام المكتوبة عن الديكريد. وعندما يتعرفون على المجتمع بشكل أفضل ، سيكون من الممكن معالجة أوجه عدم الدقة في الوقت الحقيقي. كانت هناك مسألة أخرى تمت مناقشتها وهي [دمج سير الأعمال التصحيحية](https://github.com/xaur/decred-issues/issues/71) لDitto مع الطلبات الطوعية من المجتمع.
-تم مناقشة شعار الديكريد على نطاق واسع في [#marketing](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154711632712869dqRko:decred.org) و [Reddit](https://www.reddit.com/r/decred/comments/afctai/tagline_to_capture_the_decred_project/). النسخة النهائية من الرسائل استقرت على أن "الديكريد:  آمن، قابل للتكيف، ذاتي التمويل. " والتي تلقت الكثير من التأييد. مع مرور الوقت سيتم تنقيح كل هذا للتكيف مع التغيرات المستمرة للفضاء. 
+تم مناقشة شعار الديكريد على نطاق واسع في [marketing#](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154711632712869dqRko:decred.org) و [Reddit](https://www.reddit.com/r/decred/comments/afctai/tagline_to_capture_the_decred_project/). النسخة النهائية من الرسائل استقرت على أن "الديكريد:  آمن، قابل للتكيف، ذاتي التمويل. " والتي تلقت الكثير من التأييد. مع مرور الوقت سيتم تنقيح كل هذا للتكيف مع التغيرات المستمرة للفضاء. 
 
 ### تحديث شهر يناير من Ditto:
 
@@ -218,10 +218,10 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 
 مبادرات المجتمع:
 
-* [blog.dcrclub.org](https://blog.dcrclub.org/) هو موقع إلكتروني جديد باللغة الصينية يجمع العديد من المقالات والترجمات في مكان واحد. المصدر المستضاف [على GitHub](https://github.com/0x5826/blog.dcrclub.org) يجعل من السهل المساهمة أو عكس موقع الويب على نطاق آخر لمزيد من المرونة. الإعتماد ل@TogT4V (Telegram) لبدء الموقع.
+* [blog.dcrclub.org](https://blog.dcrclub.org/) هو موقع إلكتروني جديد باللغة الصينية يجمع العديد من المقالات والترجمات في مكان واحد. المصدر المستضاف [على GitHub](https://github.com/0x5826/blog.dcrclub.org) يجعل من السهل المساهمة أو عكس موقع الويب على نطاق آخر لمزيد من المرونة. الإعتماد لTogT4V@ على Telegram  لبدء الموقع.
 * [مدونة عربية جديدة](https://decred-arabia.blogspot.com/2019/01/blog-post.html) عن الديكريد بدأت بواسطة butterfly@ (أو arij@ على Matrix). هناك بعض التحديات مع نشر النص العربي على شبكة الإنترنت، ونرحب بالمشورة في  writers_room#.
 *  michae2xl@[ بدأ](https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$1548814257223928fVjiP:matrix.org) سلسة من الملفات الصوتية البرتغالية، وهي متوفرة على [Soundcloud](https://soundcloud.com/user-770106247/) وSpotify وApple Podcasts وGoogle Podcasts - ابحث عن "Decred Brasil".
-* [decredexplorer@](https://twitter.com/decredexplorer) عبارة عن حساب Twitter جديد مخصص لـ dcrdata. شكرا ل@michae2xl للتنظيم.
+* [decredexplorer@](https://twitter.com/decredexplorer) عبارة عن حساب Twitter جديد مخصص لـ dcrdata. شكرا لmichae2xl@ للتنظيم.
 * و Matt D@ [قدم](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$154825336714293nfWdU:decred.org) على قناة التيليغرام [Decred Aggregator](https://t.me/DecredAgg). ويهدف إلى جمع الأخبار، الصحافة، مقاطع الفيديو، البودكاست، وإعلانات الديكريد، التغريدات الشائعة، ورسائل الريديت، بالإضافة إلى إحصاءات السوق.
 * كما يخطط anshawblack@ لعمل بودكاست.
 
@@ -250,7 +250,7 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 الترجمة:
 
 * [تحليل مفصل لمقاومة تفرع الديكريد](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7) بقلم Haon@ -تمت ترجمته إلى [الروسية](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea) بواسطة DZ@
-* صحيفة الديكريد لشهر دجنبر 2018: تمت ترجمتها إلى: [الصينية](https://www.jianshu.com/p/65e7a83ac27c) بواسطة guang@، [البولندية](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201812_DecredJournalPL.md) بواسطة @kozel، [البرتغالية](https://medium.com/@maiconjunge/jornal-decred-dezembro-de-2018-947c616b894f) بواسطة maiconjunge@، [الروسية](https://medium.com/decred-russia/decred-journal-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C-2018-9528f7a9d24d) بواسطة @DZ، و[الإسبانية](https://medium.com/@decred_es/revista-decred-diciembre-2018-79093f957aac) بواسطة @elian. يا للروعة! شكرا لكم جميعا على نشر مذكرات الديكريد حول العالم! جميع الترجمات مدرجة [هنا](https://xaur.github.io/decred-news/).
+* صحيفة الديكريد لشهر دجنبر 2018: تمت ترجمتها إلى: [الصينية](https://www.jianshu.com/p/65e7a83ac27c) بواسطة guang@، [البولندية](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201812_DecredJournalPL.md) بواسطة kozel@، [البرتغالية](https://medium.com/@maiconjunge/jornal-decred-dezembro-de-2018-947c616b894f) بواسطة maiconjunge@، [الروسية](https://medium.com/decred-russia/decred-journal-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C-2018-9528f7a9d24d) بواسطة DZ@، و[الإسبانية](https://medium.com/@decred_es/revista-decred-diciembre-2018-79093f957aac) بواسطة elian@. يا للروعة! شكرا لكم جميعا على نشر مذكرات الديكريد حول العالم! جميع الترجمات مدرجة [هنا](https://xaur.github.io/decred-news/).
 
 أشرطة الفيديو:
 
