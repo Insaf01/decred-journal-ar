@@ -62,7 +62,7 @@
 
 استنتجت المناقشة الأمنية العميقة في documentation# أنه من الممكن تجميع [الإرشادات العامة لأمن الكمبيوتر](https://github.com/xaur/decred-issues/issues/101) والتي ستكون من شأنها أن تكون مفيدة في الفضاء بأكمله.
 
-[decred.org](https://github.com/decred/dcrweb): تم [ضم](https://github.com/decred/dcrweb/pull/491) جهد ضخم لترحيل الموقع إلى Hugo بواسطة peter\_zen@. هوغوهو مولد موقع ثابت كتب في go والذي يجعل تحديث محتوى الموقع أسهل بكثير. تم تفعيل عدة عمليات [لتحسين](https://github.com/decred/dcrweb/pull/513) سرعة الموقع.  يتم [تحديث](https://github.com/decred/hardforkdemo/commits/master) لوحة الاقتراع في [Vote.decred.org](https://voting.decred.org/) تمهيدا للتصويت على الإجماع القادم -  مبروك لjholdstock@ للتعمق في Go!
+[decred.org](https://github.com/decred/dcrweb): تم [ضم](https://github.com/decred/dcrweb/pull/491) جهد ضخم لترحيل الموقع إلى Hugo بواسطة peter\_zen@. هوغوهو مولد موقع ثابت كتب في go والذي يجعل تحديث محتوى الموقع أسهل بكثير. تم تفعيل عدة عمليات [لتحسين](https://github.com/decred/dcrweb/pull/513) سرعة الموقع.  يتم [تحديث](https://github.com/decred/hardforkdemo/commits/master) لوحة الاقتراع في [voting.decred.org](https://voting.decred.org/) تمهيدا للتصويت على الإجماع القادم -  مبروك لjholdstock@ للتعمق في Go!
 
 ### مسائل أخرى:
 
