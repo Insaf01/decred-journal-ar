@@ -94,7 +94,7 @@
 تمت [إزالة](https://github.com/decred/dcrweb/issues/528) 4 مطورين غير نشطين من decred.org:
 Cruz Molina (@freethinkingaway, dcrdata), Huy Nguyen Tuan (@huyntsgs, dcrwallet), Macaulay Davies (@mcedward), Rohit Nagori
 
-وقد [نشر ](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)المقاولون المستقلون للديكريد خططهم لعام 2019 ، وذلك بفضل ~ مساهمة 15 شخص . وقد أثار هذا المقال [مناقشة](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15476119656176jVTYW:decred.org) بشأن خرائط الطرق والتخطيط المركزي والاستقلال الذاتي للمتعاقدين ، فضلا عن تعليقات من منظمة "ديتو" (ditto).
+وقد [نشر ](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)المقاولون المستقلون للديكريد خططهم لعام 2019 ، وذلك بفضل ~ مساهمة 15 شخص . وقد أثار هذا المقال [مناقشة](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15476119656176jVTYW:decred.org) بشأن خرائط الطرق والتخطيط المركزي والاستقلال الذاتي للمتعاقدين ، فضلا عن تعليقات من منظمة "ديتو" (Ditto).
 
 ## الإدارة
 
@@ -238,11 +238,11 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 * خارطة الطريق المستقلة للمقاولين لعام 2019، [medium](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)
 * آلية توافق الآراء الفريدة من الديكريد -هل هذه اللامركزية الحقيقية؟ بواسطة بول دو هافيلاند [bitsonline](https://bitsonline.com/consensus-mechanism-of-decred-decentralization/)
 * الديكريد كمستودع للقيمة بواسطة Yin Guochao، مستوحى من مقالة Forbes، مترجم إلى الصينية، [qq.com](https://mp.weixin.qq.com/s/_-lY0rtWSPiyLPZeTRR7gg)، [الترجمة](https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-lY0rtWSPiyLPZeTRR7gg)
-* مراجعة مشروع البلوكشين: الديكريد: 8.4 العملة الرقمية المستقلة بواسطة Evaluape على [Medium](https://medium.com/@EVALUAPE1/blockchain-project-review-decred-8-4-autonomous-digital-currency-323771d65529) ،تم تقييم الديكريد 8.4/10.
+* مراجعة مشروع البلوكشين: الديكريد: 8.4 العملة الرقمية المستقلة بواسطة Evaluape على [medium](https://medium.com/@EVALUAPE1/blockchain-project-review-decred-8-4-autonomous-digital-currency-323771d65529) ،تم تقييم الديكريد 8.4/10.
 * مراجعة عملة الديكريد: أتحل محل BTC؟ بواسطة ادوين، مترجم إلى الهولندية، [bitcoinsaltcoins.nl ](https://www.bitcoinsaltcoins.nl/decred-coin-review-vervanger-van-btc/) ، تم تقييم الديكريد 8.8/10
 * 3 عملات رقمية تخزنها خلال فصل شتاء العملات الرقمية بواسطة Daniel Frumkin  على  [investinblockchain.com](https://www.investinblockchain.com/cryptocurrencies-hodl-during-crypto-winter/inblockchain.com)
 * القيمة الأساسية في العملات الرقمية؛ البتكوين والديكريد كمخزن لاستثمارات القيمة بواسطة LCC Investment Research على [seekingalpha.com](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments)
-* دور الناخبين ذوي النفوذ في الدفاع ضد هجمات الأغلبية بقلم richardred@ على [Medium](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd).
+* دور الناخبين ذوي النفوذ في الدفاع ضد هجمات الأغلبية بقلم richardred@ على [medium](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd).
 * الحكم اللامركزي خارج السلسلة في سياق العملات الرقمية بواسطة Haon@   على [goodaudience.com](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412)
 * مقابلات الهيكل الأساسي للديكريد: ستيفن، مؤسس سوق السلع الفاخرة فقط، CryptoEmporium بقلم kozel@ على [medium](https://medium.com/@artikozel/decred-infrastructure-interviews-stephen-founder-of-crypto-only-luxury-goods-marketplace-68d3214a4fd7)
 * مراجعة الديكريد بقلم Lee Banfield على [weeklyglobalresearch.wordpress.com](https://weeklyglobalresearch.wordpress.com/2019/01/31/decred-dcr-review/)
@@ -260,7 +260,7 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 
 الصوتيات:
 
-* لنأخذ نظرة عميقة حول العملات الرقمية المستقلة مع الديكريد - moo31337@ و BAB@ يتحدثان عن أن كيفية اتخاذ القرارات اللامركزية والتمويل الذاتي مكنا الديكريد من بناء عملة رقمية قوية ومتطورة خالية من نفوذ الطرف الثالث بودكاست ل The Crypto Chick مع Rachel Wolfson ([badcryptopodcast.com](https://badcryptopodcast.com/2019/01/08/autonomous-crypto-decred/)
+* لنأخذ نظرة عميقة حول العملات الرقمية المستقلة مع الديكريد - moo31337@ و BAB@ يتحدثان عن أن كيفية اتخاذ القرارات اللامركزية والتمويل الذاتي مكنا الديكريد من بناء عملة رقمية قوية ومتطورة خالية من نفوذ الطرف الثالث بودكاست ل The Crypto Chick مع (Rachel Wolfson ([badcryptopodcast.com](https://badcryptopodcast.com/2019/01/08/autonomous-crypto-decred/)
 * إدارة البلوكشين مع  Noah Pierau: الديكريد، البتكوين، الداش، الإيثيريوم (51% من أبحاث العملات الرقمية بواسطة [Tom Sh](https://itunes.apple.com/us/podcast/noah-pierau-on-blockchain-governance-decred-bitcoin/id1438148082?i=1000428113722&mt=2)aughnessy, itunes)
 * كيف يغير الديكريد ثورة التمويل في العملات الرقمية مع ماركو بريبوم - مايكل ناي وماركو يناقشان الوضع الحالي للعملات الرقمية، كيف بدأ الديكريد، إثبات الحصة مقارنة بإثبات العمل، ونموذج تمويل الديكريد والمزيد ([Evolvement Po](https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom/)dcast, evolvement.io)
 
@@ -268,15 +268,15 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 
 إحصائيات المجتمع اعتبارًا من 4 فبراير:
 
-* متابعو التويتر:39,778 (-106)
-* المشتركين في ريديت:9,330 (+89)
-* مستخدمي الماتريكس:247 (+26)
-* مستخدمي السلاك:6,529 (+110)
-* مستخدمي التيليغرام:4,503 (-231)
-*المشاركين في اليوتيوب:3,752 (+14)
-* متابعي الفايسبوك:3,132 (+11)، إعجاب:2,891 (+11)
-* متابعي LinkedIn: صفحة الديكريد 466 (+16)، صفحة بوليتيا 27 (+3)
-* نجوم Github dcrd: زيادة عشرة نجوم 468(+10)، تفرع:1,221 (+29)
+* متابعو التويتر:39,778 (106-)
+* المشتركين في ريديت:9,330 (89+)
+* مستخدمي الماتريكس:247 (26+)
+* مستخدمي السلاك:6,529 (110+)
+* مستخدمي التيليغرام:4,503 (231-)
+*المشاركين في اليوتيوب:3,752 (14+)
+* متابعي الفايسبوك:3,132 (11+)، إعجاب:2,891 (11+)
+* متابعي LinkedIn: صفحة الديكريد 466 (16+)، صفحة بوليتيا 27 (3+)
+* نجوم Github dcrd: زيادة عشرة نجوم 468(10+)، تفرع:1,221 (29+)
 
 أخبار أنظمة الاتصالات:
 
@@ -347,7 +347,7 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 
 نرحب بتعليقاتك ومساهماتك على Reddit و [GitHub](https://github.com/xaur/decred-news/issues) و [Matrix](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org).
 
-* الاعتمادات (بالترتيب الأبجدي): 
+الاعتمادات (بالترتيب الأبجدي): 
 - bee
 - davecgh
 - degeri
