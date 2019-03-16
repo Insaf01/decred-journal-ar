@@ -94,7 +94,8 @@
 تمت [إزالة](https://github.com/decred/dcrweb/issues/528) 4 مطورين غير نشطين من decred.org:
 - Cruz Molina، الملقب بfreethinkingaway@ من dcrdata
 - Huy Nguyen Tuan، الملقب بhuyntsgs@ من dcrwallet
-- Macaulay Davies، الملقب بmcedward@ من Rohit Nagori.
+- Macaulay Davies، الملقب بmcedward@
+-Rohit Nagori
 
 وقد [نشر ](https://medium.com/decred/decred-independent-contractor-roadmap-884faba3db39)المقاولون المستقلون للديكريد خططهم لعام 2019 ، وذلك بفضل ~ مساهمة 15 شخص . وقد أثار هذا المقال [مناقشة](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15476119656176jVTYW:decred.org) بشأن خرائط الطرق والتخطيط المركزي والاستقلال الذاتي للمتعاقدين ، فضلا عن تعليقات من منظمة "ديتو" (Ditto).
 
