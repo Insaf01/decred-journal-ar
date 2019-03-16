@@ -261,9 +261,9 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 
 الصوتيات:
 
-* لنأخذ نظرة عميقة حول العملات الرقمية المستقلة مع الديكريد - moo31337@ و BAB@ يتحدثان عن أن كيفية اتخاذ القرارات اللامركزية والتمويل الذاتي مكنا الديكريد من بناء عملة رقمية قوية ومتطورة خالية من نفوذ الطرف الثالث بودكاست ل The Crypto Chick مع (Rachel Wolfson ([badcryptopodcast.com](https://badcryptopodcast.com/2019/01/08/autonomous-crypto-decred/)
-* إدارة البلوكشين مع  Noah Pierau: الديكريد، البتكوين، الداش، الإيثيريوم (51% من أبحاث العملات الرقمية بواسطة [Tom Sh](https://itunes.apple.com/us/podcast/noah-pierau-on-blockchain-governance-decred-bitcoin/id1438148082?i=1000428113722&mt=2)aughnessy، itunes)
-* كيف يغير الديكريد ثورة التمويل في العملات الرقمية مع ماركو بريبوم - مايكل ناي وماركو يناقشان الوضع الحالي للعملات الرقمية، كيف بدأ الديكريد، إثبات الحصة مقارنة بإثبات العمل، ونموذج تمويل الديكريد والمزيد ([Evolvement Po](https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom/)dcast، evolvement.io)
+* لنأخذ نظرة عميقة حول العملات الرقمية المستقلة مع الديكريد - moo31337@ و BAB@ يتحدثان عن أن كيفية اتخاذ القرارات اللامركزية والتمويل الذاتي مكنا الديكريد من بناء عملة رقمية قوية ومتطورة خالية من نفوذ الطرف الثالث (بودكاست ل The Crypto Chick مع Rachel Wolfson على [badcryptopodcast.com](https://badcryptopodcast.com/2019/01/08/autonomous-crypto-decred/))
+* إدارة البلوكشين مع  Noah Pierau: الديكريد، البتكوين، الداش، الإيثيريوم (51% من أبحاث العملات الرقمية بواسطة Tom Shaughnessy  على [itunes](https://itunes.apple.com/us/podcast/noah-pierau-on-blockchain-governance-decred-bitcoin/id1438148082?i=1000428113722&mt=2))
+* كيف يغير الديكريد ثورة التمويل في العملات الرقمية مع ماركو بريبوم - مايكل ناي وماركو يناقشان الوضع الحالي للعملات الرقمية، كيف بدأ الديكريد، إثبات الحصة مقارنة بإثبات العمل، ونموذج تمويل الديكريد والمزيد (Evolvement Podcast على [evolvement.io](https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom/))
 
 ## مناقشات المجتمع
 
