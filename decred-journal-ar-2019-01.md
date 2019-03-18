@@ -368,4 +368,4 @@ oregonisaac@ [يبحث](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1547
 
 قم بزيارة مجلة الديكريد الكاملة باللغة الإنجليزية على الرابط التالي: [رابط الصفحة](https://xaur.github.io/decred-news/journal/201901.html).
 
-الترجمة إلى العربية: butterfly@
+الترجمة إلى العربية: butterfly@، قام بمراجعته abdulrahman4@.
